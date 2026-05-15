@@ -1,0 +1,3278 @@
+<BCCCTT>
+  <TTChung>
+    <phienBan>001</phienBan>
+    <mauBC>BCTC_24</mauBC>
+    <tenBC>Báo cáo tài chính hành chính sự nghiệp (TT 24/2024/TT-BTC)</tenBC>
+    <kyBC>2025</kyBC>
+    <maDonvi>830.27694.1136772</maDonvi>
+    <tenDonVi>Văn phòng HĐND và UBND phường Long An</tenDonVi>
+    <ngayLapBC>25022025</ngayLapBC>
+    <nguoiLapBC>Võ Thị Bích Vân</nguoiLapBC>
+    <ngayKy></ngayKy>
+    <nguoiKy>Võ Thị Thanh Hằng</nguoiKy>
+    <nguoiKsoat>Nguyễn Văn Sơn</nguoiKsoat>
+    <lyDoLoi></lyDoLoi>
+  </TTChung>
+  <TTBaoCao>
+    <BCTHTC>
+      <CT100_C3></CT100_C3>
+      <CT100_N0>0</CT100_N0>
+      <CT100_N1>0</CT100_N1>
+      <CT110_C3></CT110_C3>
+      <CT110_N0>0</CT110_N0>
+      <CT110_N1>0</CT110_N1>
+      <CT120_C3></CT120_C3>
+      <CT120_N0>0</CT120_N0>
+      <CT120_N1>0</CT120_N1>
+      <CT121_C3></CT121_C3>
+      <CT121_N0>0</CT121_N0>
+      <CT121_N1>0</CT121_N1>
+      <CT122_C3></CT122_C3>
+      <CT122_N0>0</CT122_N0>
+      <CT122_N1>0</CT122_N1>
+      <CT130_C3></CT130_C3>
+      <CT130_N0>0</CT130_N0>
+      <CT130_N1>0</CT130_N1>
+      <CT131_C3></CT131_C3>
+      <CT131_N0>0</CT131_N0>
+      <CT131_N1>0</CT131_N1>
+      <CT132_C3></CT132_C3>
+      <CT132_N0>0</CT132_N0>
+      <CT132_N1>0</CT132_N1>
+      <CT133_C3></CT133_C3>
+      <CT133_N0>0</CT133_N0>
+      <CT133_N1>0</CT133_N1>
+      <CT134_C3></CT134_C3>
+      <CT134_N0>0</CT134_N0>
+      <CT134_N1>0</CT134_N1>
+      <CT135_C3></CT135_C3>
+      <CT135_N0>0</CT135_N0>
+      <CT135_N1>0</CT135_N1>
+      <CT140_C3></CT140_C3>
+      <CT140_N0>0</CT140_N0>
+      <CT140_N1>0</CT140_N1>
+      <CT141_C3></CT141_C3>
+      <CT141_N0>0</CT141_N0>
+      <CT141_N1>0</CT141_N1>
+      <CT142_C3></CT142_C3>
+      <CT142_N0>0</CT142_N0>
+      <CT142_N1>0</CT142_N1>
+      <CT150_C3></CT150_C3>
+      <CT150_N0>0</CT150_N0>
+      <CT150_N1>0</CT150_N1>
+      <CT160_C3></CT160_C3>
+      <CT160_N0>6424000</CT160_N0>
+      <CT160_N1>0</CT160_N1>
+      <CT170_C3></CT170_C3>
+      <CT170_N0>0</CT170_N0>
+      <CT170_N1>0</CT170_N1>
+      <CT171_C3></CT171_C3>
+      <CT171_N0>0</CT171_N0>
+      <CT171_N1>0</CT171_N1>
+      <CT172_C3></CT172_C3>
+      <CT172_N0>0</CT172_N0>
+      <CT172_N1>0</CT172_N1>
+      <CT180_C3></CT180_C3>
+      <CT180_N0>0</CT180_N0>
+      <CT180_N1>0</CT180_N1>
+      <CT181_C3></CT181_C3>
+      <CT181_N0>0</CT181_N0>
+      <CT181_N1>0</CT181_N1>
+      <CT182_C3></CT182_C3>
+      <CT182_N0>0</CT182_N0>
+      <CT182_N1>0</CT182_N1>
+      <CT183_C3></CT183_C3>
+      <CT183_N0>0</CT183_N0>
+      <CT183_N1>0</CT183_N1>
+      <CT184_C3></CT184_C3>
+      <CT184_N0>0</CT184_N0>
+      <CT184_N1>0</CT184_N1>
+      <CT190_C3></CT190_C3>
+      <CT190_N0>6424000</CT190_N0>
+      <CT190_N1>0</CT190_N1>
+      <CT191_C3></CT191_C3>
+      <CT191_N0>6424000</CT191_N0>
+      <CT191_N1>0</CT191_N1>
+      <CT192_C3></CT192_C3>
+      <CT192_N0>872990000</CT192_N0>
+      <CT192_N1>0</CT192_N1>
+      <CT193_C3></CT193_C3>
+      <CT193_N0>-866566000</CT193_N0>
+      <CT193_N1>0</CT193_N1>
+      <CT194_C3></CT194_C3>
+      <CT194_N0>0</CT194_N0>
+      <CT194_N1>0</CT194_N1>
+      <CT195_C3></CT195_C3>
+      <CT195_N0>0</CT195_N0>
+      <CT195_N1>0</CT195_N1>
+      <CT196_C3></CT196_C3>
+      <CT196_N0>0</CT196_N0>
+      <CT196_N1>0</CT196_N1>
+      <CT200_C3></CT200_C3>
+      <CT200_N0>0</CT200_N0>
+      <CT200_N1>0</CT200_N1>
+      <CT201_C3></CT201_C3>
+      <CT201_N0>0</CT201_N0>
+      <CT201_N1>0</CT201_N1>
+      <CT202_C3></CT202_C3>
+      <CT202_N0>0</CT202_N0>
+      <CT202_N1>0</CT202_N1>
+      <CT203_C3></CT203_C3>
+      <CT203_N0>0</CT203_N0>
+      <CT203_N1>0</CT203_N1>
+      <CT204_C3></CT204_C3>
+      <CT204_N0>0</CT204_N0>
+      <CT204_N1>0</CT204_N1>
+      <CT205_C3></CT205_C3>
+      <CT205_N0>0</CT205_N0>
+      <CT205_N1>0</CT205_N1>
+      <CT206_C3></CT206_C3>
+      <CT206_N0>0</CT206_N0>
+      <CT206_N1>0</CT206_N1>
+      <CT210_C3></CT210_C3>
+      <CT210_N0>0</CT210_N0>
+      <CT210_N1>0</CT210_N1>
+      <CT211_C3></CT211_C3>
+      <CT211_N0>0</CT211_N0>
+      <CT211_N1>0</CT211_N1>
+      <CT212_C3></CT212_C3>
+      <CT212_N0>0</CT212_N0>
+      <CT212_N1>0</CT212_N1>
+      <CT213_C3></CT213_C3>
+      <CT213_N0>0</CT213_N0>
+      <CT213_N1>0</CT213_N1>
+      <CT220_C3></CT220_C3>
+      <CT220_N0>0</CT220_N0>
+      <CT220_N1>0</CT220_N1>
+      <CT230_C3></CT230_C3>
+      <CT230_N0>6424000</CT230_N0>
+      <CT230_N1>0</CT230_N1>
+      <CT240_C3></CT240_C3>
+      <CT240_N0>0</CT240_N0>
+      <CT240_N1>0</CT240_N1>
+      <CT250_C3></CT250_C3>
+      <CT250_N0>0</CT250_N0>
+      <CT250_N1>0</CT250_N1>
+      <CT251_C3></CT251_C3>
+      <CT251_N0>0</CT251_N0>
+      <CT251_N1>0</CT251_N1>
+      <CT252_C3></CT252_C3>
+      <CT252_N0>0</CT252_N0>
+      <CT252_N1>0</CT252_N1>
+      <CT253_C3></CT253_C3>
+      <CT253_N0>0</CT253_N0>
+      <CT253_N1>0</CT253_N1>
+      <CT254_C3></CT254_C3>
+      <CT254_N0>0</CT254_N0>
+      <CT254_N1>0</CT254_N1>
+      <CT255_C3></CT255_C3>
+      <CT255_N0>0</CT255_N0>
+      <CT255_N1>0</CT255_N1>
+      <CT256_C3></CT256_C3>
+      <CT256_N0>0</CT256_N0>
+      <CT256_N1>0</CT256_N1>
+      <CT257_C3></CT257_C3>
+      <CT257_N0>0</CT257_N0>
+      <CT257_N1>0</CT257_N1>
+      <CT260_C3></CT260_C3>
+      <CT260_N0>0</CT260_N0>
+      <CT260_N1>0</CT260_N1>
+      <CT261_C3></CT261_C3>
+      <CT261_N0>0</CT261_N0>
+      <CT261_N1>0</CT261_N1>
+      <CT262_C3></CT262_C3>
+      <CT262_N0>0</CT262_N0>
+      <CT262_N1>0</CT262_N1>
+      <CT263_C3></CT263_C3>
+      <CT263_N0>0</CT263_N0>
+      <CT263_N1>0</CT263_N1>
+      <CT264_C3></CT264_C3>
+      <CT264_N0>0</CT264_N0>
+      <CT264_N1>0</CT264_N1>
+      <CT265_C3></CT265_C3>
+      <CT265_N0>0</CT265_N0>
+      <CT265_N1>0</CT265_N1>
+      <CT280_C3></CT280_C3>
+      <CT280_N0>6424000</CT280_N0>
+      <CT280_N1>0</CT280_N1>
+      <CT281_C3></CT281_C3>
+      <CT281_N0>0</CT281_N0>
+      <CT281_N1>0</CT281_N1>
+      <CT282_C3></CT282_C3>
+      <CT282_N0>6424000</CT282_N0>
+      <CT282_N1>0</CT282_N1>
+      <CT283_C3></CT283_C3>
+      <CT283_N0>0</CT283_N0>
+      <CT283_N1>0</CT283_N1>
+      <CT284_C3></CT284_C3>
+      <CT284_N0>0</CT284_N0>
+      <CT284_N1>0</CT284_N1>
+      <CT285_C3></CT285_C3>
+      <CT285_N0>0</CT285_N0>
+      <CT285_N1>0</CT285_N1>
+      <CT300_C3></CT300_C3>
+      <CT300_N0>6424000</CT300_N0>
+      <CT300_N1>0</CT300_N1>
+    </BCTHTC>
+    <BCKQHD>
+      <CT400_C3></CT400_C3>
+      <CT400_N0>53067682514</CT400_N0>
+      <CT400_N1>0</CT400_N1>
+      <CT411_C3></CT411_C3>
+      <CT411_N0>53067682514</CT411_N0>
+      <CT411_N1>0</CT411_N1>
+      <CT412_C3></CT412_C3>
+      <CT412_N0>0</CT412_N0>
+      <CT412_N1>0</CT412_N1>
+      <CT413_C3></CT413_C3>
+      <CT413_N0>0</CT413_N0>
+      <CT413_N1>0</CT413_N1>
+      <CT414_C3></CT414_C3>
+      <CT414_N0>0</CT414_N0>
+      <CT414_N1>0</CT414_N1>
+      <CT415_C3></CT415_C3>
+      <CT415_N0>0</CT415_N0>
+      <CT415_N1>0</CT415_N1>
+      <CT416_C3></CT416_C3>
+      <CT416_N0>0</CT416_N0>
+      <CT416_N1>0</CT416_N1>
+      <CT417_C3></CT417_C3>
+      <CT417_N0>0</CT417_N0>
+      <CT417_N1>0</CT417_N1>
+      <CT418_C3></CT418_C3>
+      <CT418_N0>0</CT418_N0>
+      <CT418_N1>0</CT418_N1>
+      <CT419_C3></CT419_C3>
+      <CT419_N0>0</CT419_N0>
+      <CT419_N1>0</CT419_N1>
+      <CT450_C3></CT450_C3>
+      <CT450_N0>53059655197</CT450_N0>
+      <CT450_N1>0</CT450_N1>
+      <CT451_C3></CT451_C3>
+      <CT451_N0>33908374933</CT451_N0>
+      <CT451_N1>0</CT451_N1>
+      <CT452_C3></CT452_C3>
+      <CT452_N0>19151280264</CT452_N0>
+      <CT452_N1>0</CT452_N1>
+      <CT453_C3></CT453_C3>
+      <CT453_N0>0</CT453_N0>
+      <CT453_N1>0</CT453_N1>
+      <CT454_C3></CT454_C3>
+      <CT454_N0>0</CT454_N0>
+      <CT454_N1>0</CT454_N1>
+      <CT455_C3></CT455_C3>
+      <CT455_N0>0</CT455_N0>
+      <CT455_N1>0</CT455_N1>
+      <CT456_C3></CT456_C3>
+      <CT456_N0>0</CT456_N0>
+      <CT456_N1>0</CT456_N1>
+      <CT457_C3></CT457_C3>
+      <CT457_N0>0</CT457_N0>
+      <CT457_N1>0</CT457_N1>
+      <CT458_C3></CT458_C3>
+      <CT458_N0>0</CT458_N0>
+      <CT458_N1>0</CT458_N1>
+      <CT460_C3></CT460_C3>
+      <CT460_N0>0</CT460_N0>
+      <CT460_N1>0</CT460_N1>
+      <CT500_C3></CT500_C3>
+      <CT500_N0>8027317</CT500_N0>
+      <CT500_N1>0</CT500_N1>
+      <CT510_C3></CT510_C3>
+      <CT510_N0>0</CT510_N0>
+      <CT510_N1>0</CT510_N1>
+      <CT520_C3></CT520_C3>
+      <CT520_N0>8027317</CT520_N0>
+      <CT520_N1>0</CT520_N1>
+      <CT521_C3></CT521_C3>
+      <CT521_N0>0</CT521_N0>
+      <CT521_N1>0</CT521_N1>
+      <CT522_C3></CT522_C3>
+      <CT522_N0>8027317</CT522_N0>
+      <CT522_N1>0</CT522_N1>
+      <CT525_C3></CT525_C3>
+      <CT525_N0>0</CT525_N0>
+      <CT525_N1>0</CT525_N1>
+    </BCKQHD>
+    <BCLCTT>
+      <CT610_C3></CT610_C3>
+      <CT610_N0>147310768</CT610_N0>
+      <CT610_N1>0</CT610_N1>
+      <CT611_C3></CT611_C3>
+      <CT611_N0>147310768</CT611_N0>
+      <CT611_N1>0</CT611_N1>
+      <CT612_C3></CT612_C3>
+      <CT612_N0>0</CT612_N0>
+      <CT612_N1>0</CT612_N1>
+      <CT613_C3></CT613_C3>
+      <CT613_N0>0</CT613_N0>
+      <CT613_N1>0</CT613_N1>
+      <CT614_C3></CT614_C3>
+      <CT614_N0>0</CT614_N0>
+      <CT614_N1>0</CT614_N1>
+      <CT615_C3></CT615_C3>
+      <CT615_N0>0</CT615_N0>
+      <CT615_N1>0</CT615_N1>
+      <CT616_C3></CT616_C3>
+      <CT616_N0>0</CT616_N0>
+      <CT616_N1>0</CT616_N1>
+      <CT617_C3></CT617_C3>
+      <CT617_N0>0</CT617_N0>
+      <CT617_N1>0</CT617_N1>
+      <CT618_C3></CT618_C3>
+      <CT618_N0>0</CT618_N0>
+      <CT618_N1>0</CT618_N1>
+      <CT619_C3></CT619_C3>
+      <CT619_N0>0</CT619_N0>
+      <CT619_N1>0</CT619_N1>
+      <CT620_C3></CT620_C3>
+      <CT620_N0>-147310768</CT620_N0>
+      <CT620_N1>0</CT620_N1>
+      <CT621_C3></CT621_C3>
+      <CT621_N0>0</CT621_N0>
+      <CT621_N1>0</CT621_N1>
+      <CT622_C3></CT622_C3>
+      <CT622_N0>-147310768</CT622_N0>
+      <CT622_N1>0</CT622_N1>
+      <CT623_C3></CT623_C3>
+      <CT623_N0>0</CT623_N0>
+      <CT623_N1>0</CT623_N1>
+      <CT624_C3></CT624_C3>
+      <CT624_N0>0</CT624_N0>
+      <CT624_N1>0</CT624_N1>
+      <CT625_C3></CT625_C3>
+      <CT625_N0>0</CT625_N0>
+      <CT625_N1>0</CT625_N1>
+      <CT630_C3></CT630_C3>
+      <CT630_N0>0</CT630_N0>
+      <CT630_N1>0</CT630_N1>
+      <CT641_C3></CT641_C3>
+      <CT641_N0>0</CT641_N0>
+      <CT641_N1>0</CT641_N1>
+      <CT642_C3></CT642_C3>
+      <CT642_N0>0</CT642_N0>
+      <CT642_N1>0</CT642_N1>
+      <CT643_C3></CT643_C3>
+      <CT643_N0>0</CT643_N0>
+      <CT643_N1>0</CT643_N1>
+      <CT644_C3></CT644_C3>
+      <CT644_N0>0</CT644_N0>
+      <CT644_N1>0</CT644_N1>
+      <CT645_C3></CT645_C3>
+      <CT645_N0>0</CT645_N0>
+      <CT645_N1>0</CT645_N1>
+      <CT646_C3></CT646_C3>
+      <CT646_N0>0</CT646_N0>
+      <CT646_N1>0</CT646_N1>
+      <CT650_C3></CT650_C3>
+      <CT650_N0>0</CT650_N0>
+      <CT650_N1>0</CT650_N1>
+      <CT661_C3></CT661_C3>
+      <CT661_N0>0</CT661_N0>
+      <CT661_N1>0</CT661_N1>
+      <CT662_C3></CT662_C3>
+      <CT662_N0>0</CT662_N0>
+      <CT662_N1>0</CT662_N1>
+      <CT663_C3></CT663_C3>
+      <CT663_N0>0</CT663_N0>
+      <CT663_N1>0</CT663_N1>
+      <CT664_C3></CT664_C3>
+      <CT664_N0>0</CT664_N0>
+      <CT664_N1>0</CT664_N1>
+      <CT665_C3></CT665_C3>
+      <CT665_N0>0</CT665_N0>
+      <CT665_N1>0</CT665_N1>
+      <CT670_C3></CT670_C3>
+      <CT670_N0>0</CT670_N0>
+      <CT670_N1>0</CT670_N1>
+      <CT680_C3></CT680_C3>
+      <CT680_N0>0</CT680_N0>
+      <CT680_N1>0</CT680_N1>
+      <CT690_C3></CT690_C3>
+      <CT690_N0>0</CT690_N0>
+      <CT690_N1>0</CT690_N1>
+      <CT695_C3></CT695_C3>
+      <CT695_N0>0</CT695_N0>
+      <CT695_N1>0</CT695_N1>
+      <CT700_C3></CT700_C3>
+      <CT700_N0>0</CT700_N0>
+      <CT700_N1>0</CT700_N1>
+      <CTb1_r24_C3></CTb1_r24_C3>
+      <CTb1_r24_N0>0</CTb1_r24_N0>
+      <CTb1_r24_N1>0</CTb1_r24_N1>
+      <CTb1_r32_C3></CTb1_r32_C3>
+      <CTb1_r32_N0>0</CTb1_r32_N0>
+      <CTb1_r32_N1>0</CTb1_r32_N1>
+      <CTb1_r6_C3></CTb1_r6_C3>
+      <CTb1_r6_N0>0</CTb1_r6_N0>
+      <CTb1_r6_N1>0</CTb1_r6_N1>
+    </BCLCTT>
+    <TMBCTC>
+      <BCTC_I_TTC>
+        <CTb1_r10_C1>5. Cơ chế tài chính (lựa chọn cơ chế tài chính đơn vị đang áp dụng sau đây):</CTb1_r10_C1>
+        <CTb1_r11_C1>a) Cơ quan nhà nước, được giao tự chủ tài chính theo Quyết định giao tự chủ tài chính số ……… ngày ……… của ………………………</CTb1_r11_C1>
+        <CTb1_r12_C1>b) Đơn vị sự nghiệp công lập thuộc loại hình (y tế, giáo dục, sự nghiệp kinh tế khác,...):……… Cơ chế giao tự chủ đơn vị đang áp dụng:   01. Tự đảm bảo chi thường xuyên và chi đầu tư   02. Tự đảm bảo chi thường xuyên   03. Tự đảm bảo một phần chi thường xuyên (tỷ lệ đảm bảo: …%)   04. Do nhà nước đảm bảo chi thường xuyên      Quyết định giao tự chủ tài chính số ……… ngày ……… của ………</CTb1_r12_C1>
+        <CTb1_r13_C1>c) Đơn vị khác (ghi chi tiết: Cơ quan Đảng, đoàn thể, Quỹ tài chính nhà nước ngoài ngân sách,...): ……………   Quyết định giao tự chủ tài chính số ……… ngày ……… của ………</CTb1_r13_C1>
+        <CTb1_r14_C1>6. Chức năng, nhiệm vụ chính của đơn vị (mô tả ngắn gọn): …</CTb1_r14_C1>
+        <CTb1_r6_C1>1. Tên Đơn vị:…</CTb1_r6_C1>
+        <CTb1_r7_C1>2. Quyết định thành lập số: ...  ngày: …</CTb1_r7_C1>
+        <CTb1_r8_C1>3. Tên cơ quan cấp trên trực tiếp: ...</CTb1_r8_C1>
+        <CTb1_r9_C1>4. Thuộc đơn vị dự toán cấp I: …</CTb1_r9_C1>
+      </BCTC_I_TTC>
+      <BCTC_II_CSLAP>
+        <CTb2_r18_C1>1. Báo cáo tài chính của đơn vị được lập theo hướng dẫn của Chế độ kế toán hành chính, sự nghiệp ban hành theo Thông tư số 24/2024/TT-BTC ngày 17 tháng 4 năm 2024 của Bộ trưởng Bộ Tài chính.</CTb2_r18_C1>
+        <CTb2_r19_C1>2. Báo cáo tài chính được trình bày bằng đồng Việt Nam. Các chính sách kế toán được áp dụng nhất quán trong các kỳ kế toán được trình bày trên báo cáo tài chính theo quy định.</CTb2_r19_C1>
+        <CTb2_r20_C1>3. Báo cáo tài chính này bao gồm số liệu của bản thân đơn vị kế toán và đơn vị hạch toán phụ thuộc (nếu có).</CTb2_r20_C1>
+        <CTb2_r21_C1>4. Báo cáo tài chính đã được thủ trưởng đơn vị ký duyệt để phát hành vào ngày: ………………</CTb2_r21_C1>
+      </BCTC_II_CSLAP>
+      <BCTC_III01_TIEN>
+        <CT01_C1>Tiền mặt:</CT01_C1>
+        <CT01_N0>0</CT01_N0>
+        <CT01_N1>0</CT01_N1>
+        <CT02_C1>- Tiền Việt Nam</CT02_C1>
+        <CT02_N0>0</CT02_N0>
+        <CT02_N1>0</CT02_N1>
+        <CT03_C1>- Bằng ngoại tệ (quy đổi ra tiền Việt Nam theo tỷ giá cuối kỳ) Chi tiết theo từng loại ngoại tệ theo nguyên tệ và tỷ giá quy đổi) như sau:</CT03_C1>
+        <CT03_N0>0</CT03_N0>
+        <CT03_N1>0</CT03_N1>
+        <CT05_C1>Tiền gửi tại kho bạc nhà nước (thuyết minh chi tiết đến từng tài khoản tiền gửi tại kho bạc nhà nước có mở tài khoản giao dịch):</CT05_C1>
+        <CT05_N0>0</CT05_N0>
+        <CT05_N1>0</CT05_N1>
+        <CT06_C1>a) Tiền Việt Nam</CT06_C1>
+        <CT06_N0>0</CT06_N0>
+        <CT06_N1>0</CT06_N1>
+        <CT09_C1>b) Tiền gửi ngoại tệ</CT09_C1>
+        <CT09_N0>0</CT09_N0>
+        <CT09_N1>0</CT09_N1>
+        <CT18_C1>Tiền gửi tại ngân hàng (thuyết minh chi tiết đến từng tài khoản tiền gửi tại ngân hàng thương mại có mở tài khoản giao dịch):</CT18_C1>
+        <CT18_N0>0</CT18_N0>
+        <CT18_N1>0</CT18_N1>
+        <CT19_C1>a) Tiền Việt Nam</CT19_C1>
+        <CT19_N0>0</CT19_N0>
+        <CT19_N1>0</CT19_N1>
+        <CT22_C1>b) Tiền gửi ngoại tệ</CT22_C1>
+        <CT22_N0>0</CT22_N0>
+        <CT22_N1>0</CT22_N1>
+        <CT30_C1>Tiền đang chuyển, chi tiết như sau:</CT30_C1>
+        <CT30_N0>0</CT30_N0>
+        <CT30_N1>0</CT30_N1>
+        <CT31_C1>Tương đương tiền, chi tiết từng loại như sau:</CT31_C1>
+        <CT31_N0>0</CT31_N0>
+        <CT31_N1>0</CT31_N1>
+        <CT32_C1>Tổng cộng</CT32_C1>
+        <CT32_N0>0</CT32_N0>
+        <CT32_N1>0</CT32_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III01_TIEN>
+      <BCTC_III02_DTTC>
+        <CT33_C1>Đầu tư tài chính ngắn hạn</CT33_C1>
+        <CT33_N0>0</CT33_N0>
+        <CT33_N1>0</CT33_N1>
+        <CT33_N2>0</CT33_N2>
+        <CT33_N3>0</CT33_N3>
+        <CT34_C1>Các khoản đầu tư nắm giữ đến ngày đáo hạn, chi tiết từng loại như sau:</CT34_C1>
+        <CT34_N0>0</CT34_N0>
+        <CT34_N1>0</CT34_N1>
+        <CT34_N2>0</CT34_N2>
+        <CT34_N3>0</CT34_N3>
+        <CT38_C1>Đầu tư ngắn hạn khác (chi tiết)</CT38_C1>
+        <CT38_N0>0</CT38_N0>
+        <CT38_N1>0</CT38_N1>
+        <CT38_N2>0</CT38_N2>
+        <CT38_N3>0</CT38_N3>
+        <CT40_C1>Đầu tư tài chính dài hạn</CT40_C1>
+        <CT40_N0>0</CT40_N0>
+        <CT40_N1>0</CT40_N1>
+        <CT40_N2>0</CT40_N2>
+        <CT40_N3>0</CT40_N3>
+        <CT41_C1>Các khoản đầu tư nắm giữ đến ngày đáo hạn, chi tiết từng loại như sau:</CT41_C1>
+        <CT41_N0>0</CT41_N0>
+        <CT41_N1>0</CT41_N1>
+        <CT41_N2>0</CT41_N2>
+        <CT41_N3>0</CT41_N3>
+        <CT45_C1>Đầu tư góp vốn vào đơn vị khác</CT45_C1>
+        <CT45_N0>0</CT45_N0>
+        <CT45_N1>0</CT45_N1>
+        <CT45_N2>0</CT45_N2>
+        <CT45_N3>0</CT45_N3>
+        <CT47_C1>Đầu tư khác</CT47_C1>
+        <CT47_N0>0</CT47_N0>
+        <CT47_N1>0</CT47_N1>
+        <CT47_N2>0</CT47_N2>
+        <CT47_N3>0</CT47_N3>
+        <CT49_C1>Tổng cộng</CT49_C1>
+        <CT49_N0>0</CT49_N0>
+        <CT49_N1>0</CT49_N1>
+        <CT49_N2>0</CT49_N2>
+        <CT49_N3>0</CT49_N3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III02_DTTC>
+      <BCTC_III03_LDLK>
+        <CT50_C1>Liên doanh, liên kết đồng kiểm soát tài sản, chi tiết như sau:</CT50_C1>
+        <CT50_N0>0</CT50_N0>
+        <CT50_N1>0</CT50_N1>
+        <CT59_C1>Liên doanh, liên kết đồng kiểm soát hoạt động, chi tiết như sau:</CT59_C1>
+        <CT59_N0>0</CT59_N0>
+        <CT59_N1>0</CT59_N1>
+        <CT68_C1>Liên doanh, liên kết đã kết thúc thời hạn trong năm (Đơn vị phải thuyết minh chi tiết từng hoạt động, giá trị thu hồi,…)</CT68_C1>
+        <CT68_N0>0</CT68_N0>
+        <CT68_N1>0</CT68_N1>
+        <CT69_C1>Thuyết minh chi tiết khác (nếu có)</CT69_C1>
+        <CT69_N0>0</CT69_N0>
+        <CT69_N1>0</CT69_N1>
+        <CTb5_sec1_C1>Trường hợp đang trong quá trình hình thành TSCĐ đồng kiểm soát thì phải thuyết minh rõ các khoản tiền, vật tư, hàng hoá, TSCĐ đã mang đi/nhận góp vốn, thời hạn hình thành TSCĐ đồng kiểm soát....</CTb5_sec1_C1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III03_LDLK>
+      <BCTC_III04_PTKH>
+        <CT70_C1>Ngắn hạn</CT70_C1>
+        <CT70_C4></CT70_C4>
+        <CT70_N0>0</CT70_N0>
+        <CT70_N1>0</CT70_N1>
+        <CT70_N2>0</CT70_N2>
+        <CT70_N3>0</CT70_N3>
+        <CT70_C3></CT70_C3>
+        <CT73_C1>Tổng cộng số dư khoản phải thu của khách hàng ngắn hạn</CT73_C1>
+        <CT73_C4></CT73_C4>
+        <CT73_N0>0</CT73_N0>
+        <CT73_N1>0</CT73_N1>
+        <CT73_N2>0</CT73_N2>
+        <CT73_N3>0</CT73_N3>
+        <CT73_C3></CT73_C3>
+        <CT74_C1>Dài hạn</CT74_C1>
+        <CT74_C4></CT74_C4>
+        <CT74_N0>0</CT74_N0>
+        <CT74_N1>0</CT74_N1>
+        <CT74_N2>0</CT74_N2>
+        <CT74_N3>0</CT74_N3>
+        <CT74_C3></CT74_C3>
+        <CT76_C1>Tổng cộng số dư khoản phải thu của khách hàng dài hạn</CT76_C1>
+        <CT76_C4></CT76_C4>
+        <CT76_N0>0</CT76_N0>
+        <CT76_N1>0</CT76_N1>
+        <CT76_N2>0</CT76_N2>
+        <CT76_N3>0</CT76_N3>
+        <CT76_C3></CT76_C3>
+        <CT77_C1>Tổng cộng</CT77_C1>
+        <CT77_C4></CT77_C4>
+        <CT77_N0>0</CT77_N0>
+        <CT77_N1>0</CT77_N1>
+        <CT77_N2>0</CT77_N2>
+        <CT77_N3>0</CT77_N3>
+        <CT77_C3></CT77_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III04_PTKH>
+      <BCTC_III05_PTKP>
+        <CT78_C1>Phải thu từ ngân sách nhà nước</CT78_C1>
+        <CT78_N0>0</CT78_N0>
+        <CT78_N1>0</CT78_N1>
+        <CT79_C1>Số dư khoản phải thu kinh phí NSNN giao tự chủ cho hoạt động chung của đơn vị trong năm, đã ghi doanh thu từ đầu năm nhưng đến cuối ngày 31/12 chưa rút dự toán:</CT79_C1>
+        <CT79_N0>0</CT79_N0>
+        <CT79_N1>0</CT79_N1>
+        <CT80_C1>Số dư khoản phải thu từ NSNN do đã có khối lượng và hồ sơ thanh toán trước ngày 31/12 nhưng rút dự toán trong thời gian chỉnh lý quyết toán ngân sách (trừ kinh phí giao tự chủ cho hoạt động chung):</CT80_C1>
+        <CT80_N0>0</CT80_N0>
+        <CT80_N1>0</CT80_N1>
+        <CT81_C1>Số dư khoản phải thu kinh phí khác từ ngân sách nhà nước (chi tiết):</CT81_C1>
+        <CT81_N0>0</CT81_N0>
+        <CT81_N1>0</CT81_N1>
+        <CT82_C1>Phải thu từ nhà tài trợ (chi tiết):</CT82_C1>
+        <CT82_N0>0</CT82_N0>
+        <CT82_N1>0</CT82_N1>
+        <CT83_C1>Phải thu từ đơn vị kế toán cấp trên (chi tiết):</CT83_C1>
+        <CT83_N0>0</CT83_N0>
+        <CT83_N1>0</CT83_N1>
+        <CT84_C1>Tổng cộng</CT84_C1>
+        <CT84_N0>0</CT84_N0>
+        <CT84_N1>0</CT84_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III05_PTKP>
+      <BCTC_III06_TTNB>
+        <CT85_C1>Ngắn hạn</CT85_C1>
+        <CT85_C4></CT85_C4>
+        <CT85_N0>0</CT85_N0>
+        <CT85_N1>0</CT85_N1>
+        <CT85_C3></CT85_C3>
+        <CT88_C1>Tổng cộng số dư khoản trả trước cho người bán ngắn hạn</CT88_C1>
+        <CT88_C4></CT88_C4>
+        <CT88_N0>0</CT88_N0>
+        <CT88_N1>0</CT88_N1>
+        <CT88_C3></CT88_C3>
+        <CT89_C1>Dài hạn</CT89_C1>
+        <CT89_C4></CT89_C4>
+        <CT89_N0>0</CT89_N0>
+        <CT89_N1>0</CT89_N1>
+        <CT89_C3></CT89_C3>
+        <CT91_C1>Tổng cộng số dư khoản trả trước cho người bán dài hạn</CT91_C1>
+        <CT91_C4></CT91_C4>
+        <CT91_N0>0</CT91_N0>
+        <CT91_N1>0</CT91_N1>
+        <CT91_C3></CT91_C3>
+        <CT92_C1>Tổng cộng</CT92_C1>
+        <CT92_C4></CT92_C4>
+        <CT92_N0>0</CT92_N0>
+        <CT92_N1>0</CT92_N1>
+        <CT92_C3></CT92_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III06_TTNB>
+      <BCTC_III07_PTK>
+        <CT93_C1>Số dư các khoản phải thu ngắn hạn khác</CT93_C1>
+        <CT93_N0>0</CT93_N0>
+        <CT93_N1>0</CT93_N1>
+        <CT93_N2>0</CT93_N2>
+        <CT93_N3>0</CT93_N3>
+        <CT94_C1>Số dư khoản phải thu nhận ủy quyền, ủy thác chi trả</CT94_C1>
+        <CT94_N0>0</CT94_N0>
+        <CT94_N1>0</CT94_N1>
+        <CT94_N2>0</CT94_N2>
+        <CT94_N3>0</CT94_N3>
+        <CT95_C1>a) Phải thu nhận kinh phí ủy quyền thuộc ngân sách nhà nước (nêu rõ tên loại kinh phí ủy quyền, cấp ủy quyền,..):</CT95_C1>
+        <CT95_N0>0</CT95_N0>
+        <CT95_N1>0</CT95_N1>
+        <CT95_N2>0</CT95_N2>
+        <CT95_N3>0</CT95_N3>
+        <CT96_C1>b) Phải thu nhận ủy quyền, ủy thác chi trả khác, chi tiết từng loại kinh phí như sau (nêu rõ tên loại kinh phí ủy quyền, ủy thác, bên ủy quyền, ủy thác...):</CT96_C1>
+        <CT96_N0>0</CT96_N0>
+        <CT96_N1>0</CT96_N1>
+        <CT96_N2>0</CT96_N2>
+        <CT96_N3>0</CT96_N3>
+        <CT97_C1>Số dư khoản đơn vị đã tạm ứng</CT97_C1>
+        <CT97_N0>0</CT97_N0>
+        <CT97_N1>0</CT97_N1>
+        <CT97_N2>0</CT97_N2>
+        <CT97_N3>0</CT97_N3>
+        <CT98_C1>- Tạm ứng cho người lao động trong đơn vị</CT98_C1>
+        <CT98_N0>0</CT98_N0>
+        <CT98_N1>0</CT98_N1>
+        <CT98_N2>0</CT98_N2>
+        <CT98_N3>0</CT98_N3>
+        <CT99_C1>- Tạm ứng cho đầu mối chi tiêu (chi tiết từng đầu mối):</CT99_C1>
+        <CT99_N0>0</CT99_N0>
+        <CT99_N1>0</CT99_N1>
+        <CT99_N2>0</CT99_N2>
+        <CT99_N3>0</CT99_N3>
+        <CT100_C1>Số dư khoản đơn vị đã đặt cọc, ký quỹ, ký cược (chi tiết theo từng đối tượng):</CT100_C1>
+        <CT100_N0>0</CT100_N0>
+        <CT100_N1>0</CT100_N1>
+        <CT100_N2>0</CT100_N2>
+        <CT100_N3>0</CT100_N3>
+        <CT101_C1>Phải thu khác</CT101_C1>
+        <CT101_N0>0</CT101_N0>
+        <CT101_N1>0</CT101_N1>
+        <CT101_N2>0</CT101_N2>
+        <CT101_N3>0</CT101_N3>
+        <CT102_C1>- Tài sản thiếu chờ xử lý (chi tiết):</CT102_C1>
+        <CT102_N0>0</CT102_N0>
+        <CT102_N1>0</CT102_N1>
+        <CT102_N2>0</CT102_N2>
+        <CT102_N3>0</CT102_N3>
+        <CT103_C1>- Các khoản chi hoạt động liên doanh, liên kết chờ phân bổ</CT103_C1>
+        <CT103_N0>0</CT103_N0>
+        <CT103_N1>0</CT103_N1>
+        <CT103_N2>0</CT103_N2>
+        <CT103_N3>0</CT103_N3>
+        <CT104_C1>- Phải thu tiền lãi (chi tiết):</CT104_C1>
+        <CT104_N0>0</CT104_N0>
+        <CT104_N1>0</CT104_N1>
+        <CT104_N2>0</CT104_N2>
+        <CT104_N3>0</CT104_N3>
+        <CT105_C1>- Phải thu các khoản phí và lệ phí (chi tiết đến từng loại phí, lệ phí):</CT105_C1>
+        <CT105_N0>0</CT105_N0>
+        <CT105_N1>0</CT105_N1>
+        <CT105_N2>0</CT105_N2>
+        <CT105_N3>0</CT105_N3>
+        <CT106_C1>- Các khoản phải thu khác (chi tiết):</CT106_C1>
+        <CT106_N0>0</CT106_N0>
+        <CT106_N1>0</CT106_N1>
+        <CT106_N2>0</CT106_N2>
+        <CT106_N3>0</CT106_N3>
+        <CT107_C1>Tổng cộng số dư các khoản phải thu ngắn hạn khác</CT107_C1>
+        <CT107_N0>0</CT107_N0>
+        <CT107_N1>0</CT107_N1>
+        <CT107_N2>0</CT107_N2>
+        <CT107_N3>0</CT107_N3>
+        <CT108_C1>Số dư các khoản phải thu dài hạn khác</CT108_C1>
+        <CT108_N0>0</CT108_N0>
+        <CT108_N1>0</CT108_N1>
+        <CT108_N2>0</CT108_N2>
+        <CT108_N3>0</CT108_N3>
+        <CT110_C1>Tổng cộng số dư các khoản phải thu dài hạn khác</CT110_C1>
+        <CT110_N0>0</CT110_N0>
+        <CT110_N1>0</CT110_N1>
+        <CT110_N2>0</CT110_N2>
+        <CT110_N3>0</CT110_N3>
+        <CT111_C1>Tổng cộng</CT111_C1>
+        <CT111_N0>0</CT111_N0>
+        <CT111_N1>0</CT111_N1>
+        <CT111_N2>0</CT111_N2>
+        <CT111_N3>0</CT111_N3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III07_PTK>
+      <BCTC_III08_HTK>
+        <CT112_C1>Hàng mua đang đi đường</CT112_C1>
+        <CT112_N0>0</CT112_N0>
+        <CT112_N1>0</CT112_N1>
+        <CT112_N2>0</CT112_N2>
+        <CT112_N3>0</CT112_N3>
+        <CT114_C1>Nguyên liệu, vật liệu</CT114_C1>
+        <CT114_N0>0</CT114_N0>
+        <CT114_N1>0</CT114_N1>
+        <CT114_N2>0</CT114_N2>
+        <CT114_N3>0</CT114_N3>
+        <CT116_C1>Công cụ, dụng cụ</CT116_C1>
+        <CT116_N0>0</CT116_N0>
+        <CT116_N1>0</CT116_N1>
+        <CT116_N2>0</CT116_N2>
+        <CT116_N3>0</CT116_N3>
+        <CT118_C1>Chi phí sản xuất kinh doanh, dịch vụ dở dang</CT118_C1>
+        <CT118_N0>0</CT118_N0>
+        <CT118_N1>0</CT118_N1>
+        <CT118_N2>0</CT118_N2>
+        <CT118_N3>0</CT118_N3>
+        <CT120_C1>Sản phẩm</CT120_C1>
+        <CT120_N0>0</CT120_N0>
+        <CT120_N1>0</CT120_N1>
+        <CT120_N2>0</CT120_N2>
+        <CT120_N3>0</CT120_N3>
+        <CT122_C1>Hàng hóa</CT122_C1>
+        <CT122_N0>0</CT122_N0>
+        <CT122_N1>0</CT122_N1>
+        <CT122_N2>0</CT122_N2>
+        <CT122_N3>0</CT122_N3>
+        <CT124_C1>Tổng cộng</CT124_C1>
+        <CT124_N0>0</CT124_N0>
+        <CT124_N1>0</CT124_N1>
+        <CT124_N2>0</CT124_N2>
+        <CT124_N3>0</CT124_N3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III08_HTK>
+      <BCTC_III08_HTK_2>
+        <CTb11_r167_C1>…</CTb11_r167_C1>
+      </BCTC_III08_HTK_2>
+      <BCTC_III08_HTK_2A>
+        <CTb11_r168_C1>…</CTb11_r168_C1>
+      </BCTC_III08_HTK_2A>
+      <BCTC_III08_HTK_3>
+        <CTb12_r172_C1>…</CTb12_r172_C1>
+      </BCTC_III08_HTK_3>
+      <BCTC_III09_TSCD_HH>
+        <CT125_C1>Nguyên giá</CT125_C1>
+        <CT125_N0>0</CT125_N0>
+        <CT125_N1>0</CT125_N1>
+        <CT125_N2>0</CT125_N2>
+        <CT125_N3>0</CT125_N3>
+        <CT125_N4>0</CT125_N4>
+        <CT125_N5>0</CT125_N5>
+        <CT125_N6>0</CT125_N6>
+        <CT125_N7>0</CT125_N7>
+        <CT126_C1>- Số dư đầu năm</CT126_C1>
+        <CT126_N0>0</CT126_N0>
+        <CT126_N1>0</CT126_N1>
+        <CT126_N2>0</CT126_N2>
+        <CT126_N3>0</CT126_N3>
+        <CT126_N4>0</CT126_N4>
+        <CT126_N5>0</CT126_N5>
+        <CT126_N6>0</CT126_N6>
+        <CT126_N7>0</CT126_N7>
+        <CT127_C1>- Tăng trong năm:</CT127_C1>
+        <CT127_N0>0</CT127_N0>
+        <CT127_N1>0</CT127_N1>
+        <CT127_N2>0</CT127_N2>
+        <CT127_N3>0</CT127_N3>
+        <CT127_N4>872990000</CT127_N4>
+        <CT127_N5>0</CT127_N5>
+        <CT127_N6>0</CT127_N6>
+        <CT127_N7>872990000</CT127_N7>
+        <CT127a_C1>+ Mua trong năm</CT127a_C1>
+        <CT127a_N0>0</CT127a_N0>
+        <CT127a_N1>0</CT127a_N1>
+        <CT127a_N2>0</CT127a_N2>
+        <CT127a_N3>0</CT127a_N3>
+        <CT127a_N4>0</CT127a_N4>
+        <CT127a_N5>0</CT127a_N5>
+        <CT127a_N6>0</CT127a_N6>
+        <CT127a_N7>0</CT127a_N7>
+        <CT127b_C1>+ Đầu tư xây dựng hoàn thành</CT127b_C1>
+        <CT127b_N0>0</CT127b_N0>
+        <CT127b_N1>0</CT127b_N1>
+        <CT127b_N2>0</CT127b_N2>
+        <CT127b_N3>0</CT127b_N3>
+        <CT127b_N4>0</CT127b_N4>
+        <CT127b_N5>0</CT127b_N5>
+        <CT127b_N6>0</CT127b_N6>
+        <CT127b_N7>0</CT127b_N7>
+        <CT127c_C1>+ Tăng khác</CT127c_C1>
+        <CT127c_N0>0</CT127c_N0>
+        <CT127c_N1>0</CT127c_N1>
+        <CT127c_N2>0</CT127c_N2>
+        <CT127c_N3>0</CT127c_N3>
+        <CT127c_N4>872990000</CT127c_N4>
+        <CT127c_N5>0</CT127c_N5>
+        <CT127c_N6>0</CT127c_N6>
+        <CT127c_N7>872990000</CT127c_N7>
+        <CT128_C1>- Giảm trong năm:</CT128_C1>
+        <CT128_N0>0</CT128_N0>
+        <CT128_N1>0</CT128_N1>
+        <CT128_N2>0</CT128_N2>
+        <CT128_N3>0</CT128_N3>
+        <CT128_N4>0</CT128_N4>
+        <CT128_N5>0</CT128_N5>
+        <CT128_N6>0</CT128_N6>
+        <CT128_N7>0</CT128_N7>
+        <CT128a_C1>+ Thanh lý, nhượng bán</CT128a_C1>
+        <CT128a_N0>0</CT128a_N0>
+        <CT128a_N1>0</CT128a_N1>
+        <CT128a_N2>0</CT128a_N2>
+        <CT128a_N3>0</CT128a_N3>
+        <CT128a_N4>0</CT128a_N4>
+        <CT128a_N5>0</CT128a_N5>
+        <CT128a_N6>0</CT128a_N6>
+        <CT128a_N7>0</CT128a_N7>
+        <CT128b_C1>+ Điều chuyển</CT128b_C1>
+        <CT128b_N0>0</CT128b_N0>
+        <CT128b_N1>0</CT128b_N1>
+        <CT128b_N2>0</CT128b_N2>
+        <CT128b_N3>0</CT128b_N3>
+        <CT128b_N4>0</CT128b_N4>
+        <CT128b_N5>0</CT128b_N5>
+        <CT128b_N6>0</CT128b_N6>
+        <CT128b_N7>0</CT128b_N7>
+        <CT128c_C1>+ Giảm khác</CT128c_C1>
+        <CT128c_N0>0</CT128c_N0>
+        <CT128c_N1>0</CT128c_N1>
+        <CT128c_N2>0</CT128c_N2>
+        <CT128c_N3>0</CT128c_N3>
+        <CT128c_N4>0</CT128c_N4>
+        <CT128c_N5>0</CT128c_N5>
+        <CT128c_N6>0</CT128c_N6>
+        <CT128c_N7>0</CT128c_N7>
+        <CT129_C1>- Số dư cuối năm</CT129_C1>
+        <CT129_N0>0</CT129_N0>
+        <CT129_N1>0</CT129_N1>
+        <CT129_N2>0</CT129_N2>
+        <CT129_N3>0</CT129_N3>
+        <CT129_N4>872990000</CT129_N4>
+        <CT129_N5>0</CT129_N5>
+        <CT129_N6>0</CT129_N6>
+        <CT129_N7>872990000</CT129_N7>
+        <CT130_C1>Giá trị khấu hao, hao mòn lũy kế</CT130_C1>
+        <CT130_N0>0</CT130_N0>
+        <CT130_N1>0</CT130_N1>
+        <CT130_N2>0</CT130_N2>
+        <CT130_N3>0</CT130_N3>
+        <CT130_N4>0</CT130_N4>
+        <CT130_N5>0</CT130_N5>
+        <CT130_N6>0</CT130_N6>
+        <CT130_N7>0</CT130_N7>
+        <CT131_C1>- Số dư đầu năm</CT131_C1>
+        <CT131_N0>0</CT131_N0>
+        <CT131_N1>0</CT131_N1>
+        <CT131_N2>0</CT131_N2>
+        <CT131_N3>0</CT131_N3>
+        <CT131_N4>0</CT131_N4>
+        <CT131_N5>0</CT131_N5>
+        <CT131_N6>0</CT131_N6>
+        <CT131_N7>0</CT131_N7>
+        <CT132_C1>- Tăng trong năm:</CT132_C1>
+        <CT132_N0>0</CT132_N0>
+        <CT132_N1>0</CT132_N1>
+        <CT132_N2>0</CT132_N2>
+        <CT132_N3>0</CT132_N3>
+        <CT132_N4>866566000</CT132_N4>
+        <CT132_N5>0</CT132_N5>
+        <CT132_N6>0</CT132_N6>
+        <CT132_N7>866566000</CT132_N7>
+        <CT132a_C1>+ Hao mòn, khấu hao trong năm</CT132a_C1>
+        <CT132a_N0>0</CT132a_N0>
+        <CT132a_N1>0</CT132a_N1>
+        <CT132a_N2>0</CT132a_N2>
+        <CT132a_N3>0</CT132a_N3>
+        <CT132a_N4>0</CT132a_N4>
+        <CT132a_N5>0</CT132a_N5>
+        <CT132a_N6>0</CT132a_N6>
+        <CT132a_N7>0</CT132a_N7>
+        <CT132b_C1>+ Tăng khác</CT132b_C1>
+        <CT132b_N0>0</CT132b_N0>
+        <CT132b_N1>0</CT132b_N1>
+        <CT132b_N2>0</CT132b_N2>
+        <CT132b_N3>0</CT132b_N3>
+        <CT132b_N4>866566000</CT132b_N4>
+        <CT132b_N5>0</CT132b_N5>
+        <CT132b_N6>0</CT132b_N6>
+        <CT132b_N7>866566000</CT132b_N7>
+        <CT133_C1>- Giảm trong năm:</CT133_C1>
+        <CT133_N0>0</CT133_N0>
+        <CT133_N1>0</CT133_N1>
+        <CT133_N2>0</CT133_N2>
+        <CT133_N3>0</CT133_N3>
+        <CT133_N4>0</CT133_N4>
+        <CT133_N5>0</CT133_N5>
+        <CT133_N6>0</CT133_N6>
+        <CT133_N7>0</CT133_N7>
+        <CT133a_C1>+ Thanh lý, nhượng bán</CT133a_C1>
+        <CT133a_N0>0</CT133a_N0>
+        <CT133a_N1>0</CT133a_N1>
+        <CT133a_N2>0</CT133a_N2>
+        <CT133a_N3>0</CT133a_N3>
+        <CT133a_N4>0</CT133a_N4>
+        <CT133a_N5>0</CT133a_N5>
+        <CT133a_N6>0</CT133a_N6>
+        <CT133a_N7>0</CT133a_N7>
+        <CT133b_C1>+ Điều chuyển</CT133b_C1>
+        <CT133b_N0>0</CT133b_N0>
+        <CT133b_N1>0</CT133b_N1>
+        <CT133b_N2>0</CT133b_N2>
+        <CT133b_N3>0</CT133b_N3>
+        <CT133b_N4>0</CT133b_N4>
+        <CT133b_N5>0</CT133b_N5>
+        <CT133b_N6>0</CT133b_N6>
+        <CT133b_N7>0</CT133b_N7>
+        <CT133c_C1>+ Giảm khác</CT133c_C1>
+        <CT133c_N0>0</CT133c_N0>
+        <CT133c_N1>0</CT133c_N1>
+        <CT133c_N2>0</CT133c_N2>
+        <CT133c_N3>0</CT133c_N3>
+        <CT133c_N4>0</CT133c_N4>
+        <CT133c_N5>0</CT133c_N5>
+        <CT133c_N6>0</CT133c_N6>
+        <CT133c_N7>0</CT133c_N7>
+        <CT134_C1>- Số dư cuối năm</CT134_C1>
+        <CT134_N0>0</CT134_N0>
+        <CT134_N1>0</CT134_N1>
+        <CT134_N2>0</CT134_N2>
+        <CT134_N3>0</CT134_N3>
+        <CT134_N4>866566000</CT134_N4>
+        <CT134_N5>0</CT134_N5>
+        <CT134_N6>0</CT134_N6>
+        <CT134_N7>866566000</CT134_N7>
+        <CT135_C1>Giá trị còn lại</CT135_C1>
+        <CT135_N0>0</CT135_N0>
+        <CT135_N1>0</CT135_N1>
+        <CT135_N2>0</CT135_N2>
+        <CT135_N3>0</CT135_N3>
+        <CT135_N4>0</CT135_N4>
+        <CT135_N5>0</CT135_N5>
+        <CT135_N6>0</CT135_N6>
+        <CT135_N7>0</CT135_N7>
+        <CT136_C1>- Tại ngày đầu năm</CT136_C1>
+        <CT136_N0>0</CT136_N0>
+        <CT136_N1>0</CT136_N1>
+        <CT136_N2>0</CT136_N2>
+        <CT136_N3>0</CT136_N3>
+        <CT136_N4>0</CT136_N4>
+        <CT136_N5>0</CT136_N5>
+        <CT136_N6>0</CT136_N6>
+        <CT136_N7>0</CT136_N7>
+        <CT137_C1>- Tại ngày cuối năm</CT137_C1>
+        <CT137_N0>0</CT137_N0>
+        <CT137_N1>0</CT137_N1>
+        <CT137_N2>0</CT137_N2>
+        <CT137_N3>0</CT137_N3>
+        <CT137_N4>6424000</CT137_N4>
+        <CT137_N5>0</CT137_N5>
+        <CT137_N6>0</CT137_N6>
+        <CT137_N7>6424000</CT137_N7>
+      </BCTC_III09_TSCD_HH>
+      <BCTC_III09_TSCD_HH_KH>
+        <CT138_C1>TSCĐ phải trích khấu hao cho toàn bộ thời gian sử dụng</CT138_C1>
+        <CT138_N0>0</CT138_N0>
+        <CT138_N1>0</CT138_N1>
+        <CT138_C3></CT138_C3>
+        <CT143_C1>TSCĐ vừa trích KH vừa tính hao mòn</CT143_C1>
+        <CT143_N0>0</CT143_N0>
+        <CT143_N1>0</CT143_N1>
+        <CT143_C3></CT143_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_HH_KH>
+      <BCTC_III09_TSCD_HH_HET>
+        <CT149_C1>Chi tiết TSCĐ hữu hình cuối năm đã khấu hao, hao mòn hết nhưng vẫn còn sử dụng (chi tiết từng TSCĐ, theo nguyên giá)</CT149_C1>
+        <CT149_N0>0</CT149_N0>
+        <CT149_C3></CT149_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_HH_HET>
+      <BCTC_III09_TSCD_HH_TL>
+        <CT152_C1>Chi tiết TSCĐ hữu hình cuối năm không còn sử dụng được, đang chờ thanh lý (chi tiết từng TSCĐ, theo nguyên giá, giá trị còn lại)</CT152_C1>
+        <CT152_N0>0</CT152_N0>
+        <CT152_N1>0</CT152_N1>
+        <CT152_C3></CT152_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_HH_TL>
+      <BCTC_III09_TSCD_HH_TC>
+        <CT154_C1>Chi tiết TSCĐ hữu hình đang được sử dụng làm tài sản thế chấp theo quy định (chi tiết từng TSCĐ, theo nguyên giá, giá trị còn lại)</CT154_C1>
+        <CT154_N0>0</CT154_N0>
+        <CT154_N1>0</CT154_N1>
+        <CT154_C3></CT154_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_HH_TC>
+      <BCTC_III09_TSCD_HH_KHAC>
+        <CTb18_r228_C1>…</CTb18_r228_C1>
+      </BCTC_III09_TSCD_HH_KHAC>
+      <BCTC_III09_TSCD_VH>
+        <CT156_C1>Nguyên giá</CT156_C1>
+        <CT156_N0>0</CT156_N0>
+        <CT156_N1>0</CT156_N1>
+        <CT156_N2>0</CT156_N2>
+        <CT156_N3>0</CT156_N3>
+        <CT156_N4>0</CT156_N4>
+        <CT156_N5>0</CT156_N5>
+        <CT156_N6>0</CT156_N6>
+        <CT157_C1>- Số dư đầu năm</CT157_C1>
+        <CT157_N0>0</CT157_N0>
+        <CT157_N1>0</CT157_N1>
+        <CT157_N2>0</CT157_N2>
+        <CT157_N3>0</CT157_N3>
+        <CT157_N4>0</CT157_N4>
+        <CT157_N5>0</CT157_N5>
+        <CT157_N6>0</CT157_N6>
+        <CT158_C1>- Tăng trong năm:</CT158_C1>
+        <CT158_N0>0</CT158_N0>
+        <CT158_N1>0</CT158_N1>
+        <CT158_N2>0</CT158_N2>
+        <CT158_N3>0</CT158_N3>
+        <CT158_N4>0</CT158_N4>
+        <CT158_N5>0</CT158_N5>
+        <CT158_N6>0</CT158_N6>
+        <CT158d_C1>+ Tăng khác</CT158d_C1>
+        <CT158d_N0>0</CT158d_N0>
+        <CT158d_N1>0</CT158d_N1>
+        <CT158d_N2>0</CT158d_N2>
+        <CT158d_N3>0</CT158d_N3>
+        <CT158d_N4>0</CT158d_N4>
+        <CT158d_N5>0</CT158d_N5>
+        <CT158d_N6>0</CT158d_N6>
+        <CT158c_C1>+ Tăng do điều chuyển đến</CT158c_C1>
+        <CT158c_N0>0</CT158c_N0>
+        <CT158c_N1>0</CT158c_N1>
+        <CT158c_N2>0</CT158c_N2>
+        <CT158c_N3>0</CT158c_N3>
+        <CT158c_N4>0</CT158c_N4>
+        <CT158c_N5>0</CT158c_N5>
+        <CT158c_N6>0</CT158c_N6>
+        <CT158b_C1>+ Tạo ra từ nội bộ đơn vị</CT158b_C1>
+        <CT158b_N0>0</CT158b_N0>
+        <CT158b_N1>0</CT158b_N1>
+        <CT158b_N2>0</CT158b_N2>
+        <CT158b_N3>0</CT158b_N3>
+        <CT158b_N4>0</CT158b_N4>
+        <CT158b_N5>0</CT158b_N5>
+        <CT158b_N6>0</CT158b_N6>
+        <CT158a_C1>+ Mua trong năm</CT158a_C1>
+        <CT158a_N0>0</CT158a_N0>
+        <CT158a_N1>0</CT158a_N1>
+        <CT158a_N2>0</CT158a_N2>
+        <CT158a_N3>0</CT158a_N3>
+        <CT158a_N4>0</CT158a_N4>
+        <CT158a_N5>0</CT158a_N5>
+        <CT158a_N6>0</CT158a_N6>
+        <CT159_C1>- Giảm trong năm:</CT159_C1>
+        <CT159_N0>0</CT159_N0>
+        <CT159_N1>0</CT159_N1>
+        <CT159_N2>0</CT159_N2>
+        <CT159_N3>0</CT159_N3>
+        <CT159_N4>0</CT159_N4>
+        <CT159_N5>0</CT159_N5>
+        <CT159_N6>0</CT159_N6>
+        <CT159b_C1>+ Giảm khác</CT159b_C1>
+        <CT159b_N0>0</CT159b_N0>
+        <CT159b_N1>0</CT159b_N1>
+        <CT159b_N2>0</CT159b_N2>
+        <CT159b_N3>0</CT159b_N3>
+        <CT159b_N4>0</CT159b_N4>
+        <CT159b_N5>0</CT159b_N5>
+        <CT159b_N6>0</CT159b_N6>
+        <CT159a_C1>+ Thanh lý, nhượng bán</CT159a_C1>
+        <CT159a_N0>0</CT159a_N0>
+        <CT159a_N1>0</CT159a_N1>
+        <CT159a_N2>0</CT159a_N2>
+        <CT159a_N3>0</CT159a_N3>
+        <CT159a_N4>0</CT159a_N4>
+        <CT159a_N5>0</CT159a_N5>
+        <CT159a_N6>0</CT159a_N6>
+        <CT160_C1>- Số dư cuối năm</CT160_C1>
+        <CT160_N0>0</CT160_N0>
+        <CT160_N1>0</CT160_N1>
+        <CT160_N2>0</CT160_N2>
+        <CT160_N3>0</CT160_N3>
+        <CT160_N4>0</CT160_N4>
+        <CT160_N5>0</CT160_N5>
+        <CT160_N6>0</CT160_N6>
+        <CT161_C1>Giá trị hao mòn lũy kế</CT161_C1>
+        <CT161_N0>0</CT161_N0>
+        <CT161_N1>0</CT161_N1>
+        <CT161_N2>0</CT161_N2>
+        <CT161_N3>0</CT161_N3>
+        <CT161_N4>0</CT161_N4>
+        <CT161_N5>0</CT161_N5>
+        <CT161_N6>0</CT161_N6>
+        <CT162_C1>- Số dư đầu năm</CT162_C1>
+        <CT162_N0>0</CT162_N0>
+        <CT162_N1>0</CT162_N1>
+        <CT162_N2>0</CT162_N2>
+        <CT162_N3>0</CT162_N3>
+        <CT162_N4>0</CT162_N4>
+        <CT162_N5>0</CT162_N5>
+        <CT162_N6>0</CT162_N6>
+        <CT163_C1>- Tăng trong năm:</CT163_C1>
+        <CT163_N0>0</CT163_N0>
+        <CT163_N1>0</CT163_N1>
+        <CT163_N2>0</CT163_N2>
+        <CT163_N3>0</CT163_N3>
+        <CT163_N4>0</CT163_N4>
+        <CT163_N5>0</CT163_N5>
+        <CT163_N6>0</CT163_N6>
+        <CT163a_C1>+ Hao mòn, khấu hao trong năm</CT163a_C1>
+        <CT163a_N0>0</CT163a_N0>
+        <CT163a_N1>0</CT163a_N1>
+        <CT163a_N2>0</CT163a_N2>
+        <CT163a_N3>0</CT163a_N3>
+        <CT163a_N4>0</CT163a_N4>
+        <CT163a_N5>0</CT163a_N5>
+        <CT163a_N6>0</CT163a_N6>
+        <CT163b_C1>+ Tăng khác</CT163b_C1>
+        <CT163b_N0>0</CT163b_N0>
+        <CT163b_N1>0</CT163b_N1>
+        <CT163b_N2>0</CT163b_N2>
+        <CT163b_N3>0</CT163b_N3>
+        <CT163b_N4>0</CT163b_N4>
+        <CT163b_N5>0</CT163b_N5>
+        <CT163b_N6>0</CT163b_N6>
+        <CT164_C1>- Giảm trong năm:</CT164_C1>
+        <CT164_N0>0</CT164_N0>
+        <CT164_N1>0</CT164_N1>
+        <CT164_N2>0</CT164_N2>
+        <CT164_N3>0</CT164_N3>
+        <CT164_N4>0</CT164_N4>
+        <CT164_N5>0</CT164_N5>
+        <CT164_N6>0</CT164_N6>
+        <CT164a_C1>+ Thanh lý, nhượng bán</CT164a_C1>
+        <CT164a_N0>0</CT164a_N0>
+        <CT164a_N1>0</CT164a_N1>
+        <CT164a_N2>0</CT164a_N2>
+        <CT164a_N3>0</CT164a_N3>
+        <CT164a_N4>0</CT164a_N4>
+        <CT164a_N5>0</CT164a_N5>
+        <CT164a_N6>0</CT164a_N6>
+        <CT164b_C1>+ Giảm khác</CT164b_C1>
+        <CT164b_N0>0</CT164b_N0>
+        <CT164b_N1>0</CT164b_N1>
+        <CT164b_N2>0</CT164b_N2>
+        <CT164b_N3>0</CT164b_N3>
+        <CT164b_N4>0</CT164b_N4>
+        <CT164b_N5>0</CT164b_N5>
+        <CT164b_N6>0</CT164b_N6>
+        <CT165_C1>- Số dư cuối năm</CT165_C1>
+        <CT165_N0>0</CT165_N0>
+        <CT165_N1>0</CT165_N1>
+        <CT165_N2>0</CT165_N2>
+        <CT165_N3>0</CT165_N3>
+        <CT165_N4>0</CT165_N4>
+        <CT165_N5>0</CT165_N5>
+        <CT165_N6>0</CT165_N6>
+        <CT166_C1>Giá trị còn lại</CT166_C1>
+        <CT166_N0>0</CT166_N0>
+        <CT166_N1>0</CT166_N1>
+        <CT166_N2>0</CT166_N2>
+        <CT166_N3>0</CT166_N3>
+        <CT166_N4>0</CT166_N4>
+        <CT166_N5>0</CT166_N5>
+        <CT166_N6>0</CT166_N6>
+        <CT167_C1>- Tại ngày đầu năm</CT167_C1>
+        <CT167_N0>0</CT167_N0>
+        <CT167_N1>0</CT167_N1>
+        <CT167_N2>0</CT167_N2>
+        <CT167_N3>0</CT167_N3>
+        <CT167_N4>0</CT167_N4>
+        <CT167_N5>0</CT167_N5>
+        <CT167_N6>0</CT167_N6>
+        <CT168_C1>- Tại ngày cuối năm</CT168_C1>
+        <CT168_N0>0</CT168_N0>
+        <CT168_N1>0</CT168_N1>
+        <CT168_N2>0</CT168_N2>
+        <CT168_N3>0</CT168_N3>
+        <CT168_N4>0</CT168_N4>
+        <CT168_N5>0</CT168_N5>
+        <CT168_N6>0</CT168_N6>
+      </BCTC_III09_TSCD_VH>
+      <BCTC_III09_TSCD_VH_KH>
+        <CT169_C1>TSCĐ phải trích khấu hao cho toàn bộ thời gian sử dụng</CT169_C1>
+        <CT169_N0>0</CT169_N0>
+        <CT169_N1>0</CT169_N1>
+        <CT169_C3></CT169_C3>
+        <CT170_C1>TSCĐ vừa thực hiện trích khấu hao, vừa tính hao mòn</CT170_C1>
+        <CT170_N0>0</CT170_N0>
+        <CT170_N1>0</CT170_N1>
+        <CT170_C3></CT170_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_VH_KH>
+      <BCTC_III09_TSCD_VH_HET>
+        <CT174_C1>Nguyên giá TSCĐ vô hình cuối năm đã hao mòn, khấu hao hết nhưng vẫn còn sử dụng (chi tiết từng TSCĐ, nguyên giá)</CT174_C1>
+        <CT174_N0>0</CT174_N0>
+        <CT174_C3></CT174_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_VH_HET>
+      <BCTC_III09_TSCD_VH_TL>
+        <CT176_C1>Chi tiết TSCĐ vô hình cuối năm không còn sử dụng được, đang chờ thanh lý (chi tiết từng TSCĐ, theo nguyên giá, giá trị còn lại)</CT176_C1>
+        <CT176_N0>0</CT176_N0>
+        <CT176_N1>0</CT176_N1>
+        <CT176_C3></CT176_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_VH_TL>
+      <BCTC_III09_TSCD_VH_TC>
+        <CT178_C1>Chi tiết TSCĐ vô hình đang được sử dụng làm tài sản thế chấp theo quy định (chi tiết từng TSCĐ, theo nguyên giá, giá trị còn lại)</CT178_C1>
+        <CT178_N0>0</CT178_N0>
+        <CT178_N1>0</CT178_N1>
+        <CT178_C3></CT178_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III09_TSCD_VH_TC>
+      <BCTC_III09_TSCD_VH_KHAC>
+        <CTb24_r281_C1>.....</CTb24_r281_C1>
+      </BCTC_III09_TSCD_VH_KHAC>
+      <BCTC_III10_TSKCHT_TSCDHH>
+        <CT179_C1>- Số dư đầu năm</CT179_C1>
+        <CT179_N0>0</CT179_N0>
+        <CT179_N1>0</CT179_N1>
+        <CT179_N2>0</CT179_N2>
+        <CT179_N3>0</CT179_N3>
+        <CT179_N4>0</CT179_N4>
+        <CT179_N5>0</CT179_N5>
+        <CT179_N6>0</CT179_N6>
+        <CT179_N7>0</CT179_N7>
+        <CT180_C1>Tăng trong năm:</CT180_C1>
+        <CT180_N0>0</CT180_N0>
+        <CT180_N1>0</CT180_N1>
+        <CT180_N2>0</CT180_N2>
+        <CT180_N3>0</CT180_N3>
+        <CT180_N4>0</CT180_N4>
+        <CT180_N5>0</CT180_N5>
+        <CT180_N6>0</CT180_N6>
+        <CT180_N7>0</CT180_N7>
+        <CT180d_C1>+ Tăng khác</CT180d_C1>
+        <CT180d_N0>0</CT180d_N0>
+        <CT180d_N1>0</CT180d_N1>
+        <CT180d_N2>0</CT180d_N2>
+        <CT180d_N3>0</CT180d_N3>
+        <CT180d_N4>0</CT180d_N4>
+        <CT180d_N5>0</CT180d_N5>
+        <CT180d_N6>0</CT180d_N6>
+        <CT180d_N7>0</CT180d_N7>
+        <CT180c_C1>+ Nhận điều chuyển</CT180c_C1>
+        <CT180c_N0>0</CT180c_N0>
+        <CT180c_N1>0</CT180c_N1>
+        <CT180c_N2>0</CT180c_N2>
+        <CT180c_N3>0</CT180c_N3>
+        <CT180c_N4>0</CT180c_N4>
+        <CT180c_N5>0</CT180c_N5>
+        <CT180c_N6>0</CT180c_N6>
+        <CT180c_N7>0</CT180c_N7>
+        <CT180b_C1>+ Đầu tư xây dựng hoàn thành</CT180b_C1>
+        <CT180b_N0>0</CT180b_N0>
+        <CT180b_N1>0</CT180b_N1>
+        <CT180b_N2>0</CT180b_N2>
+        <CT180b_N3>0</CT180b_N3>
+        <CT180b_N4>0</CT180b_N4>
+        <CT180b_N5>0</CT180b_N5>
+        <CT180b_N6>0</CT180b_N6>
+        <CT180b_N7>0</CT180b_N7>
+        <CT180a_C1>+ Mua mới trong năm</CT180a_C1>
+        <CT180a_N0>0</CT180a_N0>
+        <CT180a_N1>0</CT180a_N1>
+        <CT180a_N2>0</CT180a_N2>
+        <CT180a_N3>0</CT180a_N3>
+        <CT180a_N4>0</CT180a_N4>
+        <CT180a_N5>0</CT180a_N5>
+        <CT180a_N6>0</CT180a_N6>
+        <CT180a_N7>0</CT180a_N7>
+        <CT181_C1>- Giảm trong năm:</CT181_C1>
+        <CT181_N0>0</CT181_N0>
+        <CT181_N1>0</CT181_N1>
+        <CT181_N2>0</CT181_N2>
+        <CT181_N3>0</CT181_N3>
+        <CT181_N4>0</CT181_N4>
+        <CT181_N5>0</CT181_N5>
+        <CT181_N6>0</CT181_N6>
+        <CT181_N7>0</CT181_N7>
+        <CT181c_C1>+ Giảm khác</CT181c_C1>
+        <CT181c_N0>0</CT181c_N0>
+        <CT181c_N1>0</CT181c_N1>
+        <CT181c_N2>0</CT181c_N2>
+        <CT181c_N3>0</CT181c_N3>
+        <CT181c_N4>0</CT181c_N4>
+        <CT181c_N5>0</CT181c_N5>
+        <CT181c_N6>0</CT181c_N6>
+        <CT181c_N7>0</CT181c_N7>
+        <CT181b_C1>+ Điều chuyển</CT181b_C1>
+        <CT181b_N0>0</CT181b_N0>
+        <CT181b_N1>0</CT181b_N1>
+        <CT181b_N2>0</CT181b_N2>
+        <CT181b_N3>0</CT181b_N3>
+        <CT181b_N4>0</CT181b_N4>
+        <CT181b_N5>0</CT181b_N5>
+        <CT181b_N6>0</CT181b_N6>
+        <CT181b_N7>0</CT181b_N7>
+        <CT181a_C1>+ Thanh lý, nhượng bán</CT181a_C1>
+        <CT181a_N0>0</CT181a_N0>
+        <CT181a_N1>0</CT181a_N1>
+        <CT181a_N2>0</CT181a_N2>
+        <CT181a_N3>0</CT181a_N3>
+        <CT181a_N4>0</CT181a_N4>
+        <CT181a_N5>0</CT181a_N5>
+        <CT181a_N6>0</CT181a_N6>
+        <CT181a_N7>0</CT181a_N7>
+        <CT182_C1>- Số dư cuối năm</CT182_C1>
+        <CT182_N0>0</CT182_N0>
+        <CT182_N1>0</CT182_N1>
+        <CT182_N2>0</CT182_N2>
+        <CT182_N3>0</CT182_N3>
+        <CT182_N4>0</CT182_N4>
+        <CT182_N5>0</CT182_N5>
+        <CT182_N6>0</CT182_N6>
+        <CT182_N7>0</CT182_N7>
+        <CT183_C1>- Số dư đầu năm</CT183_C1>
+        <CT183_N0>0</CT183_N0>
+        <CT183_N1>0</CT183_N1>
+        <CT183_N2>0</CT183_N2>
+        <CT183_N3>0</CT183_N3>
+        <CT183_N4>0</CT183_N4>
+        <CT183_N5>0</CT183_N5>
+        <CT183_N6>0</CT183_N6>
+        <CT183_N7>0</CT183_N7>
+        <CT184_C1>- Tăng trong năm:</CT184_C1>
+        <CT184_N0>0</CT184_N0>
+        <CT184_N1>0</CT184_N1>
+        <CT184_N2>0</CT184_N2>
+        <CT184_N3>0</CT184_N3>
+        <CT184_N4>0</CT184_N4>
+        <CT184_N5>0</CT184_N5>
+        <CT184_N6>0</CT184_N6>
+        <CT184_N7>0</CT184_N7>
+        <CT184a_C1>+ Hao mòn, khấu hao trong năm</CT184a_C1>
+        <CT184a_N0>0</CT184a_N0>
+        <CT184a_N1>0</CT184a_N1>
+        <CT184a_N2>0</CT184a_N2>
+        <CT184a_N3>0</CT184a_N3>
+        <CT184a_N4>0</CT184a_N4>
+        <CT184a_N5>0</CT184a_N5>
+        <CT184a_N6>0</CT184a_N6>
+        <CT184a_N7>0</CT184a_N7>
+        <CT184b_C1>+ Hao mòn, khấu hao tài sản điều chuyển trong năm</CT184b_C1>
+        <CT184b_N0>0</CT184b_N0>
+        <CT184b_N1>0</CT184b_N1>
+        <CT184b_N2>0</CT184b_N2>
+        <CT184b_N3>0</CT184b_N3>
+        <CT184b_N4>0</CT184b_N4>
+        <CT184b_N5>0</CT184b_N5>
+        <CT184b_N6>0</CT184b_N6>
+        <CT184b_N7>0</CT184b_N7>
+        <CT184c_C1>+ Tăng khác</CT184c_C1>
+        <CT184c_N0>0</CT184c_N0>
+        <CT184c_N1>0</CT184c_N1>
+        <CT184c_N2>0</CT184c_N2>
+        <CT184c_N3>0</CT184c_N3>
+        <CT184c_N4>0</CT184c_N4>
+        <CT184c_N5>0</CT184c_N5>
+        <CT184c_N6>0</CT184c_N6>
+        <CT184c_N7>0</CT184c_N7>
+        <CT185_C1>- Giảm trong năm:</CT185_C1>
+        <CT185_N0>0</CT185_N0>
+        <CT185_N1>0</CT185_N1>
+        <CT185_N2>0</CT185_N2>
+        <CT185_N3>0</CT185_N3>
+        <CT185_N4>0</CT185_N4>
+        <CT185_N5>0</CT185_N5>
+        <CT185_N6>0</CT185_N6>
+        <CT185_N7>0</CT185_N7>
+        <CT185a_C1>+ Giảm do thanh lý, nhượng bán</CT185a_C1>
+        <CT185a_N0>0</CT185a_N0>
+        <CT185a_N1>0</CT185a_N1>
+        <CT185a_N2>0</CT185a_N2>
+        <CT185a_N3>0</CT185a_N3>
+        <CT185a_N4>0</CT185a_N4>
+        <CT185a_N5>0</CT185a_N5>
+        <CT185a_N6>0</CT185a_N6>
+        <CT185a_N7>0</CT185a_N7>
+        <CT185b_C1>+ Giảm do điều chuyển</CT185b_C1>
+        <CT185b_N0>0</CT185b_N0>
+        <CT185b_N1>0</CT185b_N1>
+        <CT185b_N2>0</CT185b_N2>
+        <CT185b_N3>0</CT185b_N3>
+        <CT185b_N4>0</CT185b_N4>
+        <CT185b_N5>0</CT185b_N5>
+        <CT185b_N6>0</CT185b_N6>
+        <CT185b_N7>0</CT185b_N7>
+        <CT185c_C1>+ Giảm khác</CT185c_C1>
+        <CT185c_N0>0</CT185c_N0>
+        <CT185c_N1>0</CT185c_N1>
+        <CT185c_N2>0</CT185c_N2>
+        <CT185c_N3>0</CT185c_N3>
+        <CT185c_N4>0</CT185c_N4>
+        <CT185c_N5>0</CT185c_N5>
+        <CT185c_N6>0</CT185c_N6>
+        <CT185c_N7>0</CT185c_N7>
+        <CT186_C1>- Số dư cuối năm</CT186_C1>
+        <CT186_N0>0</CT186_N0>
+        <CT186_N1>0</CT186_N1>
+        <CT186_N2>0</CT186_N2>
+        <CT186_N3>0</CT186_N3>
+        <CT186_N4>0</CT186_N4>
+        <CT186_N5>0</CT186_N5>
+        <CT186_N6>0</CT186_N6>
+        <CT186_N7>0</CT186_N7>
+        <CT187_C1>- Tại ngày đầu năm</CT187_C1>
+        <CT187_N0>0</CT187_N0>
+        <CT187_N1>0</CT187_N1>
+        <CT187_N2>0</CT187_N2>
+        <CT187_N3>0</CT187_N3>
+        <CT187_N4>0</CT187_N4>
+        <CT187_N5>0</CT187_N5>
+        <CT187_N6>0</CT187_N6>
+        <CT187_N7>0</CT187_N7>
+        <CT188_C1>- Tại ngày cuối năm</CT188_C1>
+        <CT188_N0>0</CT188_N0>
+        <CT188_N1>0</CT188_N1>
+        <CT188_N2>0</CT188_N2>
+        <CT188_N3>0</CT188_N3>
+        <CT188_N4>0</CT188_N4>
+        <CT188_N5>0</CT188_N5>
+        <CT188_N6>0</CT188_N6>
+        <CT188_N7>0</CT188_N7>
+        <CTb25_r285_C1>Nguyên giá</CTb25_r285_C1>
+        <CTb25_r285_N0>0</CTb25_r285_N0>
+        <CTb25_r285_N1>0</CTb25_r285_N1>
+        <CTb25_r285_N2>0</CTb25_r285_N2>
+        <CTb25_r285_N3>0</CTb25_r285_N3>
+        <CTb25_r285_N4>0</CTb25_r285_N4>
+        <CTb25_r285_N5>0</CTb25_r285_N5>
+        <CTb25_r285_N6>0</CTb25_r285_N6>
+        <CTb25_r285_N7>0</CTb25_r285_N7>
+        <CTb25_r297_C1>Giá trị KH, hao mòn lũy kế</CTb25_r297_C1>
+        <CTb25_r297_N0>0</CTb25_r297_N0>
+        <CTb25_r297_N1>0</CTb25_r297_N1>
+        <CTb25_r297_N2>0</CTb25_r297_N2>
+        <CTb25_r297_N3>0</CTb25_r297_N3>
+        <CTb25_r297_N4>0</CTb25_r297_N4>
+        <CTb25_r297_N5>0</CTb25_r297_N5>
+        <CTb25_r297_N6>0</CTb25_r297_N6>
+        <CTb25_r297_N7>0</CTb25_r297_N7>
+        <CTb25_r308_C1>Giá trị còn lại</CTb25_r308_C1>
+        <CTb25_r308_N0>0</CTb25_r308_N0>
+        <CTb25_r308_N1>0</CTb25_r308_N1>
+        <CTb25_r308_N2>0</CTb25_r308_N2>
+        <CTb25_r308_N3>0</CTb25_r308_N3>
+        <CTb25_r308_N4>0</CTb25_r308_N4>
+        <CTb25_r308_N5>0</CTb25_r308_N5>
+        <CTb25_r308_N6>0</CTb25_r308_N6>
+        <CTb25_r308_N7>0</CTb25_r308_N7>
+      </BCTC_III10_TSKCHT_TSCDHH>
+      <BCTC_III10_TSKCHT_TSCDVH>
+        <CT189_C1>- Số dư đầu năm</CT189_C1>
+        <CT189_N0>0</CT189_N0>
+        <CT189_N1>0</CT189_N1>
+        <CT189_N2>0</CT189_N2>
+        <CT189_N3>0</CT189_N3>
+        <CT189_N4>0</CT189_N4>
+        <CT189_N5>0</CT189_N5>
+        <CT189_N6>0</CT189_N6>
+        <CT189_N7>0</CT189_N7>
+        <CT190_C1>- Tăng trong năm:</CT190_C1>
+        <CT190_N0>0</CT190_N0>
+        <CT190_N1>0</CT190_N1>
+        <CT190_N2>0</CT190_N2>
+        <CT190_N3>0</CT190_N3>
+        <CT190_N4>0</CT190_N4>
+        <CT190_N5>0</CT190_N5>
+        <CT190_N6>0</CT190_N6>
+        <CT190_N7>0</CT190_N7>
+        <CT190d_C1>+ Tăng khác</CT190d_C1>
+        <CT190d_N0>0</CT190d_N0>
+        <CT190d_N1>0</CT190d_N1>
+        <CT190d_N2>0</CT190d_N2>
+        <CT190d_N3>0</CT190d_N3>
+        <CT190d_N4>0</CT190d_N4>
+        <CT190d_N5>0</CT190d_N5>
+        <CT190d_N6>0</CT190d_N6>
+        <CT190d_N7>0</CT190d_N7>
+        <CT190c_C1>+ Nhận điều chuyển</CT190c_C1>
+        <CT190c_N0>0</CT190c_N0>
+        <CT190c_N1>0</CT190c_N1>
+        <CT190c_N2>0</CT190c_N2>
+        <CT190c_N3>0</CT190c_N3>
+        <CT190c_N4>0</CT190c_N4>
+        <CT190c_N5>0</CT190c_N5>
+        <CT190c_N6>0</CT190c_N6>
+        <CT190c_N7>0</CT190c_N7>
+        <CT190b_C1>+ Đầu tư xây dựng hoàn thành</CT190b_C1>
+        <CT190b_N0>0</CT190b_N0>
+        <CT190b_N1>0</CT190b_N1>
+        <CT190b_N2>0</CT190b_N2>
+        <CT190b_N3>0</CT190b_N3>
+        <CT190b_N4>0</CT190b_N4>
+        <CT190b_N5>0</CT190b_N5>
+        <CT190b_N6>0</CT190b_N6>
+        <CT190b_N7>0</CT190b_N7>
+        <CT190a_C1>+ Mua mới trong năm</CT190a_C1>
+        <CT190a_N0>0</CT190a_N0>
+        <CT190a_N1>0</CT190a_N1>
+        <CT190a_N2>0</CT190a_N2>
+        <CT190a_N3>0</CT190a_N3>
+        <CT190a_N4>0</CT190a_N4>
+        <CT190a_N5>0</CT190a_N5>
+        <CT190a_N6>0</CT190a_N6>
+        <CT190a_N7>0</CT190a_N7>
+        <CT191_C1>- Giảm trong năm:</CT191_C1>
+        <CT191_N0>0</CT191_N0>
+        <CT191_N1>0</CT191_N1>
+        <CT191_N2>0</CT191_N2>
+        <CT191_N3>0</CT191_N3>
+        <CT191_N4>0</CT191_N4>
+        <CT191_N5>0</CT191_N5>
+        <CT191_N6>0</CT191_N6>
+        <CT191_N7>0</CT191_N7>
+        <CT191b_C1>+ Điều chuyển</CT191b_C1>
+        <CT191b_N0>0</CT191b_N0>
+        <CT191b_N1>0</CT191b_N1>
+        <CT191b_N2>0</CT191b_N2>
+        <CT191b_N3>0</CT191b_N3>
+        <CT191b_N4>0</CT191b_N4>
+        <CT191b_N5>0</CT191b_N5>
+        <CT191b_N6>0</CT191b_N6>
+        <CT191b_N7>0</CT191b_N7>
+        <CT191c_C1>+ Giảm khác</CT191c_C1>
+        <CT191c_N0>0</CT191c_N0>
+        <CT191c_N1>0</CT191c_N1>
+        <CT191c_N2>0</CT191c_N2>
+        <CT191c_N3>0</CT191c_N3>
+        <CT191c_N4>0</CT191c_N4>
+        <CT191c_N5>0</CT191c_N5>
+        <CT191c_N6>0</CT191c_N6>
+        <CT191c_N7>0</CT191c_N7>
+        <CT191a_C1>+ Thanh lý, nhượng bán</CT191a_C1>
+        <CT191a_N0>0</CT191a_N0>
+        <CT191a_N1>0</CT191a_N1>
+        <CT191a_N2>0</CT191a_N2>
+        <CT191a_N3>0</CT191a_N3>
+        <CT191a_N4>0</CT191a_N4>
+        <CT191a_N5>0</CT191a_N5>
+        <CT191a_N6>0</CT191a_N6>
+        <CT191a_N7>0</CT191a_N7>
+        <CT192_C1>- Số dư cuối năm</CT192_C1>
+        <CT192_N0>0</CT192_N0>
+        <CT192_N1>0</CT192_N1>
+        <CT192_N2>0</CT192_N2>
+        <CT192_N3>0</CT192_N3>
+        <CT192_N4>0</CT192_N4>
+        <CT192_N5>0</CT192_N5>
+        <CT192_N6>0</CT192_N6>
+        <CT192_N7>0</CT192_N7>
+        <CT193_C1>- Số dư đầu năm</CT193_C1>
+        <CT193_N0>0</CT193_N0>
+        <CT193_N1>0</CT193_N1>
+        <CT193_N2>0</CT193_N2>
+        <CT193_N3>0</CT193_N3>
+        <CT193_N4>0</CT193_N4>
+        <CT193_N5>0</CT193_N5>
+        <CT193_N6>0</CT193_N6>
+        <CT193_N7>0</CT193_N7>
+        <CT194_C1>- Tăng trong năm:</CT194_C1>
+        <CT194_N0>0</CT194_N0>
+        <CT194_N1>0</CT194_N1>
+        <CT194_N2>0</CT194_N2>
+        <CT194_N3>0</CT194_N3>
+        <CT194_N4>0</CT194_N4>
+        <CT194_N5>0</CT194_N5>
+        <CT194_N6>0</CT194_N6>
+        <CT194_N7>0</CT194_N7>
+        <CT194a_C1>+ Hao mòn, khấu hao trong năm</CT194a_C1>
+        <CT194a_N0>0</CT194a_N0>
+        <CT194a_N1>0</CT194a_N1>
+        <CT194a_N2>0</CT194a_N2>
+        <CT194a_N3>0</CT194a_N3>
+        <CT194a_N4>0</CT194a_N4>
+        <CT194a_N5>0</CT194a_N5>
+        <CT194a_N6>0</CT194a_N6>
+        <CT194a_N7>0</CT194a_N7>
+        <CT194b_C1>+ Hao mòn, khấu hao tài sản điều chuyển trong năm</CT194b_C1>
+        <CT194b_N0>0</CT194b_N0>
+        <CT194b_N1>0</CT194b_N1>
+        <CT194b_N2>0</CT194b_N2>
+        <CT194b_N3>0</CT194b_N3>
+        <CT194b_N4>0</CT194b_N4>
+        <CT194b_N5>0</CT194b_N5>
+        <CT194b_N6>0</CT194b_N6>
+        <CT194b_N7>0</CT194b_N7>
+        <CT194c_C1>+ Tăng khác</CT194c_C1>
+        <CT194c_N0>0</CT194c_N0>
+        <CT194c_N1>0</CT194c_N1>
+        <CT194c_N2>0</CT194c_N2>
+        <CT194c_N3>0</CT194c_N3>
+        <CT194c_N4>0</CT194c_N4>
+        <CT194c_N5>0</CT194c_N5>
+        <CT194c_N6>0</CT194c_N6>
+        <CT194c_N7>0</CT194c_N7>
+        <CT195_C1>- Giảm trong năm:</CT195_C1>
+        <CT195_N0>0</CT195_N0>
+        <CT195_N1>0</CT195_N1>
+        <CT195_N2>0</CT195_N2>
+        <CT195_N3>0</CT195_N3>
+        <CT195_N4>0</CT195_N4>
+        <CT195_N5>0</CT195_N5>
+        <CT195_N6>0</CT195_N6>
+        <CT195_N7>0</CT195_N7>
+        <CT195a_C1>+ Giảm do thanh lý, nhượng bán</CT195a_C1>
+        <CT195a_N0>0</CT195a_N0>
+        <CT195a_N1>0</CT195a_N1>
+        <CT195a_N2>0</CT195a_N2>
+        <CT195a_N3>0</CT195a_N3>
+        <CT195a_N4>0</CT195a_N4>
+        <CT195a_N5>0</CT195a_N5>
+        <CT195a_N6>0</CT195a_N6>
+        <CT195a_N7>0</CT195a_N7>
+        <CT195b_C1>+ Giảm do điều chuyển</CT195b_C1>
+        <CT195b_N0>0</CT195b_N0>
+        <CT195b_N1>0</CT195b_N1>
+        <CT195b_N2>0</CT195b_N2>
+        <CT195b_N3>0</CT195b_N3>
+        <CT195b_N4>0</CT195b_N4>
+        <CT195b_N5>0</CT195b_N5>
+        <CT195b_N6>0</CT195b_N6>
+        <CT195b_N7>0</CT195b_N7>
+        <CT195c_C1>+ Giảm khác</CT195c_C1>
+        <CT195c_N0>0</CT195c_N0>
+        <CT195c_N1>0</CT195c_N1>
+        <CT195c_N2>0</CT195c_N2>
+        <CT195c_N3>0</CT195c_N3>
+        <CT195c_N4>0</CT195c_N4>
+        <CT195c_N5>0</CT195c_N5>
+        <CT195c_N6>0</CT195c_N6>
+        <CT195c_N7>0</CT195c_N7>
+        <CT196_C1>- Số dư cuối năm</CT196_C1>
+        <CT196_N0>0</CT196_N0>
+        <CT196_N1>0</CT196_N1>
+        <CT196_N2>0</CT196_N2>
+        <CT196_N3>0</CT196_N3>
+        <CT196_N4>0</CT196_N4>
+        <CT196_N5>0</CT196_N5>
+        <CT196_N6>0</CT196_N6>
+        <CT196_N7>0</CT196_N7>
+        <CT197_C1>- Tại ngày đầu năm</CT197_C1>
+        <CT197_N0>0</CT197_N0>
+        <CT197_N1>0</CT197_N1>
+        <CT197_N2>0</CT197_N2>
+        <CT197_N3>0</CT197_N3>
+        <CT197_N4>0</CT197_N4>
+        <CT197_N5>0</CT197_N5>
+        <CT197_N6>0</CT197_N6>
+        <CT197_N7>0</CT197_N7>
+        <CT198_C1>- Tại ngày cuối năm</CT198_C1>
+        <CT198_N0>0</CT198_N0>
+        <CT198_N1>0</CT198_N1>
+        <CT198_N2>0</CT198_N2>
+        <CT198_N3>0</CT198_N3>
+        <CT198_N4>0</CT198_N4>
+        <CT198_N5>0</CT198_N5>
+        <CT198_N6>0</CT198_N6>
+        <CT198_N7>0</CT198_N7>
+        <CTb26_r313_C1>Nguyên giá</CTb26_r313_C1>
+        <CTb26_r313_N0>0</CTb26_r313_N0>
+        <CTb26_r313_N1>0</CTb26_r313_N1>
+        <CTb26_r313_N2>0</CTb26_r313_N2>
+        <CTb26_r313_N3>0</CTb26_r313_N3>
+        <CTb26_r313_N4>0</CTb26_r313_N4>
+        <CTb26_r313_N5>0</CTb26_r313_N5>
+        <CTb26_r313_N6>0</CTb26_r313_N6>
+        <CTb26_r313_N7>0</CTb26_r313_N7>
+        <CTb26_r325_C1>Giá trị KH, hao mòn lũy kế</CTb26_r325_C1>
+        <CTb26_r325_N0>0</CTb26_r325_N0>
+        <CTb26_r325_N1>0</CTb26_r325_N1>
+        <CTb26_r325_N2>0</CTb26_r325_N2>
+        <CTb26_r325_N3>0</CTb26_r325_N3>
+        <CTb26_r325_N4>0</CTb26_r325_N4>
+        <CTb26_r325_N5>0</CTb26_r325_N5>
+        <CTb26_r325_N6>0</CTb26_r325_N6>
+        <CTb26_r325_N7>0</CTb26_r325_N7>
+        <CTb26_r336_C1>Giá trị còn lại</CTb26_r336_C1>
+        <CTb26_r336_N0>0</CTb26_r336_N0>
+        <CTb26_r336_N1>0</CTb26_r336_N1>
+        <CTb26_r336_N2>0</CTb26_r336_N2>
+        <CTb26_r336_N3>0</CTb26_r336_N3>
+        <CTb26_r336_N4>0</CTb26_r336_N4>
+        <CTb26_r336_N5>0</CTb26_r336_N5>
+        <CTb26_r336_N6>0</CTb26_r336_N6>
+        <CTb26_r336_N7>0</CTb26_r336_N7>
+      </BCTC_III10_TSKCHT_TSCDVH>
+      <BCTC_III10_TSKCHT_DVDGQL>
+        <CT199_C1>TSCĐ hữu hình</CT199_C1>
+        <CT199_N0>0</CT199_N0>
+        <CT199_C3></CT199_C3>
+        <CT200_C1>TSCĐ vô hình</CT200_C1>
+        <CT200_N0>0</CT200_N0>
+        <CT200_C3></CT200_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III10_TSKCHT_DVDGQL>
+      <BCTC_III10_TSK>
+        <CTb28_r349_C1>…</CTb28_r349_C1>
+      </BCTC_III10_TSK>
+      <BCTC_III11_MSXDDD>
+        <CT201_C1>Mua sắm tài sản cố định (chi tiết từng TSCĐ hoặc nhóm, loại TSCĐ)</CT201_C1>
+        <CT201_N0>0</CT201_N0>
+        <CT201_N1>0</CT201_N1>
+        <CT202_C1>Nâng cấp tài sản cố định (chi tiết từng TSCĐ)</CT202_C1>
+        <CT202_N0>0</CT202_N0>
+        <CT202_N1>0</CT202_N1>
+        <CT204_C1>Chi phí đầu tư xây dựng dở dang</CT204_C1>
+        <CT204_N0>0</CT204_N0>
+        <CT204_N1>0</CT204_N1>
+        <CT205_C1>- Đầu tư xây dựng dở dang (chi tiết theo từng dự án, công trình)</CT205_C1>
+        <CT205_N0>0</CT205_N0>
+        <CT205_N1>0</CT205_N1>
+        <CT207_C1>- Dự án, công trình đã bàn giao đưa vào sử dụng chờ phê duyệt quyết toán (chi tiết theo từng dự án, công trình), trình bày là số âm</CT207_C1>
+        <CT207_N0>0</CT207_N0>
+        <CT207_N1>0</CT207_N1>
+        <CT209_C1>Tổng cộng</CT209_C1>
+        <CT209_N0>0</CT209_N0>
+        <CT209_N1>0</CT209_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III11_MSXDDD>
+      <BCTC_III12_SDTKK>
+        <CT210_C1>Tài sản ngắn hạn khác</CT210_C1>
+        <CT210_N0>0</CT210_N0>
+        <CT210_N1>0</CT210_N1>
+        <CT211_C1>- Chi phí trả trước ngắn hạn (Chi tiết)</CT211_C1>
+        <CT211_N0>0</CT211_N0>
+        <CT211_N1>0</CT211_N1>
+        <CT212_C1>- Thuế GTGT được khấu trừ</CT212_C1>
+        <CT212_N0>0</CT212_N0>
+        <CT212_N1>0</CT212_N1>
+        <CT213_C1>- Các khoản thuế, phí và các khoản khác mà đơn vị đã nộp lớn hơn số phải nộp cho Nhà nước (chi tiết)</CT213_C1>
+        <CT213_N0>0</CT213_N0>
+        <CT213_N1>0</CT213_N1>
+        <CT214_C1>- Tài sản ngắn hạn khác (chi tiết)</CT214_C1>
+        <CT214_N0>0</CT214_N0>
+        <CT214_N1>0</CT214_N1>
+        <CT215_C1>Tổng giá trị tài sản ngắn hạn khác</CT215_C1>
+        <CT215_N0>0</CT215_N0>
+        <CT215_N1>0</CT215_N1>
+        <CT216_C1>Tài sản dài hạn khác</CT216_C1>
+        <CT216_N0>0</CT216_N0>
+        <CT216_N1>0</CT216_N1>
+        <CT217_C1>- Chi phí trả trước dài hạn (chi tiết)</CT217_C1>
+        <CT217_N0>0</CT217_N0>
+        <CT217_N1>0</CT217_N1>
+        <CT218_C1>- Tài sản dài hạn khác (chi tiết)</CT218_C1>
+        <CT218_N0>0</CT218_N0>
+        <CT218_N1>0</CT218_N1>
+        <CT219_C1>Tổng giá trị tài sản dài hạn khác</CT219_C1>
+        <CT219_N0>0</CT219_N0>
+        <CT219_N1>0</CT219_N1>
+        <CT220_C1>Tổng cộng</CT220_C1>
+        <CT220_N0>0</CT220_N0>
+        <CT220_N1>0</CT220_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III12_SDTKK>
+      <BCTC_III13_SDPT>
+        <CT221_C1>Ngắn hạn</CT221_C1>
+        <CT221_C4></CT221_C4>
+        <CT221_N0>0</CT221_N0>
+        <CT221_N1>0</CT221_N1>
+        <CT221_C3></CT221_C3>
+        <CT223_C1>Tổng cộng số dư khoản phải trả cho người bán ngắn hạn</CT223_C1>
+        <CT223_C4></CT223_C4>
+        <CT223_N0>0</CT223_N0>
+        <CT223_N1>0</CT223_N1>
+        <CT223_C3></CT223_C3>
+        <CT224_C1>Dài hạn</CT224_C1>
+        <CT224_C4></CT224_C4>
+        <CT224_N0>0</CT224_N0>
+        <CT224_N1>0</CT224_N1>
+        <CT224_C3></CT224_C3>
+        <CT226_C1>Tổng cộng số dư khoản phải trả cho người bán dài hạn</CT226_C1>
+        <CT226_C4></CT226_C4>
+        <CT226_N0>0</CT226_N0>
+        <CT226_N1>0</CT226_N1>
+        <CT226_C3></CT226_C3>
+        <CT227_C1>Tổng cộng</CT227_C1>
+        <CT227_C4></CT227_C4>
+        <CT227_N0>0</CT227_N0>
+        <CT227_N1>0</CT227_N1>
+        <CT227_C3></CT227_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III13_SDPT>
+      <BCTC_III14_NTKH>
+        <CT228_C1>Ngắn hạn</CT228_C1>
+        <CT228_C4></CT228_C4>
+        <CT228_N0>0</CT228_N0>
+        <CT228_N1>0</CT228_N1>
+        <CT228_C3></CT228_C3>
+        <CT231_C1>Tổng cộng số dư khoản nhận trước của khách hàng ngắn hạn</CT231_C1>
+        <CT231_C4></CT231_C4>
+        <CT231_N0>0</CT231_N0>
+        <CT231_N1>0</CT231_N1>
+        <CT231_C3></CT231_C3>
+        <CT232_C1>Dài hạn</CT232_C1>
+        <CT232_C4></CT232_C4>
+        <CT232_N0>0</CT232_N0>
+        <CT232_N1>0</CT232_N1>
+        <CT232_C3></CT232_C3>
+        <CT234_C1>Tổng cộng số dư khoản nhận trước của khách hàng dài hạn</CT234_C1>
+        <CT234_C4></CT234_C4>
+        <CT234_N0>0</CT234_N0>
+        <CT234_N1>0</CT234_N1>
+        <CT234_C3></CT234_C3>
+        <CT235_C1>Tổng cộng</CT235_C1>
+        <CT235_C4></CT235_C4>
+        <CT235_N0>0</CT235_N0>
+        <CT235_N1>0</CT235_N1>
+        <CT235_C3></CT235_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_III14_NTKH>
+      <BCTC_III15_KPDC>
+        <CT236_C1>Nhận trước từ NSNN:</CT236_C1>
+        <CT236_N0>0</CT236_N0>
+        <CT236_N1>0</CT236_N1>
+        <CT237_C1>Nhận trước kinh phí từ nhà tài trợ (chi tiết):</CT237_C1>
+        <CT237_N0>0</CT237_N0>
+        <CT237_N1>0</CT237_N1>
+        <CT238_C1>Nhận trước từ đơn vị kế toán cấp trên (chi tiết):</CT238_C1>
+        <CT238_N0>0</CT238_N0>
+        <CT238_N1>0</CT238_N1>
+        <CT239_C1>Tổng cộng</CT239_C1>
+        <CT239_N0>0</CT239_N0>
+        <CT239_N1>0</CT239_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III15_KPDC>
+      <BCTC_III16_VAY>
+        <CT240_C1>Vay ngắn hạn (chi tiết):</CT240_C1>
+        <CT240_N0>0</CT240_N0>
+        <CT240_N1>0</CT240_N1>
+        <CT241_C1>Vay dài hạn (chi tiết theo kỳ hạn):</CT241_C1>
+        <CT241_N0>0</CT241_N0>
+        <CT241_N1>0</CT241_N1>
+        <CT242_C1>Tổng cộng</CT242_C1>
+        <CT242_N0>0</CT242_N0>
+        <CT242_N1>0</CT242_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III16_VAY>
+      <BCTC_III17_DPPT>
+        <CT243_C1>Dự phòng phải trả ngắn hạn (chi tiết):</CT243_C1>
+        <CT243_N0>0</CT243_N0>
+        <CT243_N1>0</CT243_N1>
+        <CT244_C1>Dự phòng phải trả dài hạn (chi tiết):</CT244_C1>
+        <CT244_N0>0</CT244_N0>
+        <CT244_N1>0</CT244_N1>
+        <CT245_C1>Tổng cộng</CT245_C1>
+        <CT245_N0>0</CT245_N0>
+        <CT245_N1>0</CT245_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III17_DPPT>
+      <BCTC_III18_SDQ>
+        <CT246_C1>Quỹ dự phòng ổn định thu nhập</CT246_C1>
+        <CT246_N0>0</CT246_N0>
+        <CT246_N1>0</CT246_N1>
+        <CT247_C1>Quỹ bổ sung thu nhập</CT247_C1>
+        <CT247_N0>0</CT247_N0>
+        <CT247_N1>0</CT247_N1>
+        <CT248_C1>Quỹ khen thưởng</CT248_C1>
+        <CT248_N0>0</CT248_N0>
+        <CT248_N1>0</CT248_N1>
+        <CT249_C1>Quỹ phúc lợi:</CT249_C1>
+        <CT249_N0>0</CT249_N0>
+        <CT249_N1>0</CT249_N1>
+        <CT249a_C1>- Quỹ phúc lợi</CT249a_C1>
+        <CT249a_N0>0</CT249a_N0>
+        <CT249a_N1>0</CT249a_N1>
+        <CT249b_C1>- Quỹ phúc lợi đã hình thành tài sản (chi tiết)</CT249b_C1>
+        <CT249b_N0>0</CT249b_N0>
+        <CT249b_N1>0</CT249b_N1>
+        <CT250_C1>Quỹ phải trả khác của đơn vị (chi tiết từng quỹ):</CT250_C1>
+        <CT250_N0>0</CT250_N0>
+        <CT250_N1>0</CT250_N1>
+        <CT251_C1>Tổng cộng</CT251_C1>
+        <CT251_N0>0</CT251_N0>
+        <CT251_N1>0</CT251_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III18_SDQ>
+      <BCTC_III19_PTK>
+        <CT252_C1>Các khoản phải trả ngắn hạn khác</CT252_C1>
+        <CT252_N0>0</CT252_N0>
+        <CT252_N1>0</CT252_N1>
+        <CT253_C1>a) Các khoản phải nộp theo lương:</CT253_C1>
+        <CT253_N0>0</CT253_N0>
+        <CT253_N1>0</CT253_N1>
+        <CT254_C1>- Bảo hiểm xã hội</CT254_C1>
+        <CT254_N0>0</CT254_N0>
+        <CT254_N1>0</CT254_N1>
+        <CT255_C1>- Bảo hiểm y tế</CT255_C1>
+        <CT255_N0>0</CT255_N0>
+        <CT255_N1>0</CT255_N1>
+        <CT256_C1>- Bảo hiểm thất nghiệp</CT256_C1>
+        <CT256_N0>0</CT256_N0>
+        <CT256_N1>0</CT256_N1>
+        <CT257_C1>- Kinh phí công đoàn</CT257_C1>
+        <CT257_N0>0</CT257_N0>
+        <CT257_N1>0</CT257_N1>
+        <CT258_C1>b) Các khoản phải nộp nhà nước</CT258_C1>
+        <CT258_N0>0</CT258_N0>
+        <CT258_N1>0</CT258_N1>
+        <CT259_C1>- Thuế GTGT phải nộp</CT259_C1>
+        <CT259_N0>0</CT259_N0>
+        <CT259_N1>0</CT259_N1>
+        <CT260_C1>+ Thuế GTGT đầu ra</CT260_C1>
+        <CT260_N0>0</CT260_N0>
+        <CT260_N1>0</CT260_N1>
+        <CT261_C1>+ Thuế GTGT hàng nhập khẩu</CT261_C1>
+        <CT261_N0>0</CT261_N0>
+        <CT261_N1>0</CT261_N1>
+        <CT262_C1>- Phí</CT262_C1>
+        <CT262_N0>0</CT262_N0>
+        <CT262_N1>0</CT262_N1>
+        <CT263_C1>- Lệ phí</CT263_C1>
+        <CT263_N0>0</CT263_N0>
+        <CT263_N1>0</CT263_N1>
+        <CT264_C1>- Thuế thu nhập doanh nghiệp</CT264_C1>
+        <CT264_N0>0</CT264_N0>
+        <CT264_N1>0</CT264_N1>
+        <CT265_C1>- Thuế thu nhập cá nhân</CT265_C1>
+        <CT265_N0>0</CT265_N0>
+        <CT265_N1>0</CT265_N1>
+        <CT266_C1>- Thuế khác (chi tiết):</CT266_C1>
+        <CT266_N0>0</CT266_N0>
+        <CT266_N1>0</CT266_N1>
+        <CT267_C1>- Các khoản phải nộp nhà nước khác (chi tiết):</CT267_C1>
+        <CT267_N0>0</CT267_N0>
+        <CT267_N1>0</CT267_N1>
+        <CT268_C1>c) Các khoản phải trả người lao động</CT268_C1>
+        <CT268_N0>0</CT268_N0>
+        <CT268_N1>0</CT268_N1>
+        <CT269_C1>d) Tài sản thừa chờ xử lý (chi tiết):</CT269_C1>
+        <CT269_N0>0</CT269_N0>
+        <CT269_N1>0</CT269_N1>
+        <CT271_C1>đ) Các khoản thu hoạt động liên doanh, liên kết chờ phân bổ:</CT271_C1>
+        <CT271_N0>0</CT271_N0>
+        <CT271_N1>0</CT271_N1>
+        <CT273_C1>e) Các khoản thu phí, lệ phí:</CT273_C1>
+        <CT273_N0>0</CT273_N0>
+        <CT273_N1>0</CT273_N1>
+        <CT275_C1>g) Doanh thu nhận trước ngắn hạn (chi tiết):</CT275_C1>
+        <CT275_N0>0</CT275_N0>
+        <CT275_N1>0</CT275_N1>
+        <CT277_C1>h) Nhận đặt cọc, ký quỹ, ký cược ngắn hạn (chi tiết):</CT277_C1>
+        <CT277_N0>0</CT277_N0>
+        <CT277_N1>0</CT277_N1>
+        <CT279_C1>i) Nhận trước kinh phí ủy quyền, ủy thác chi trả</CT279_C1>
+        <CT279_N0>0</CT279_N0>
+        <CT279_N1>0</CT279_N1>
+        <CT280_C1>k) Các khoản phải trả, phải nộp ngắn hạn khác (chi tiết):</CT280_C1>
+        <CT280_N0>0</CT280_N0>
+        <CT280_N1>0</CT280_N1>
+        <CT281_C1>Tổng cộng số dư các khoản phải trả ngắn hạn khác</CT281_C1>
+        <CT281_N0>0</CT281_N0>
+        <CT281_N1>0</CT281_N1>
+        <CT282_C1>Các khoản phải trả dài hạn khác</CT282_C1>
+        <CT282_N0>0</CT282_N0>
+        <CT282_N1>0</CT282_N1>
+        <CT283_C1>a) Doanh thu nhận trước dài hạn (chi tiết):</CT283_C1>
+        <CT283_N0>0</CT283_N0>
+        <CT283_N1>0</CT283_N1>
+        <CT285_C1>b) Nhận đặt cọc, ký quỹ, ký cược dài hạn (chi tiết):</CT285_C1>
+        <CT285_N0>0</CT285_N0>
+        <CT285_N1>0</CT285_N1>
+        <CT287_C1>c) Các khoản phải trả, phải nộp dài hạn khác (chi tiết):</CT287_C1>
+        <CT287_N0>0</CT287_N0>
+        <CT287_N1>0</CT287_N1>
+        <CT289_C1>Tổng cộng số dư các khoản phải trả dài hạn khác</CT289_C1>
+        <CT289_N0>0</CT289_N0>
+        <CT289_N1>0</CT289_N1>
+        <CT290_C1>Tổng cộng</CT290_C1>
+        <CT290_N0>0</CT290_N0>
+        <CT290_N1>0</CT290_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III19_PTK>
+      <BCTC_III20_KGV>
+        <CT292_C1>Vốn điều lệ do NSNN cấp (đối với quỹ TCNN ngoài ngân sách)</CT292_C1>
+        <CT292_N0>0</CT292_N0>
+        <CT292_N1>0</CT292_N1>
+        <CT293_C1>- Vốn góp của chủ sở hữu (chi tiết):</CT293_C1>
+        <CT293_N0>0</CT293_N0>
+        <CT293_N1>0</CT293_N1>
+        <CT295_C1>Tổng cộng</CT295_C1>
+        <CT295_N0>0</CT295_N0>
+        <CT295_N1>0</CT295_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III20_KGV>
+      <BCTC_III21_TDTHLK>
+        <CT296_C1>Thuyết minh số dư khoản thặng dư lũy kế</CT296_C1>
+        <CT296_N0>6424000</CT296_N0>
+        <CT296_N1>0</CT296_N1>
+        <CT297_C1>a) Giá trị còn lại của TSCĐ:</CT297_C1>
+        <CT297_N0>6424000</CT297_N0>
+        <CT297_N1>0</CT297_N1>
+        <CT298_C1>b) Nguồn chi đầu tư đã thanh toán khối lượng hoàn thành:</CT298_C1>
+        <CT298_N0>0</CT298_N0>
+        <CT298_N1>0</CT298_N1>
+        <CT299_C1>c) Nguồn khác (chi tiết, nếu có):</CT299_C1>
+        <CT299_N0>0</CT299_N0>
+        <CT299_N1>0</CT299_N1>
+        <CT300_C1>Thuyết minh số dư khoản thâm hụt luỹ kế (chi tiết):</CT300_C1>
+        <CT300_N0>0</CT300_N0>
+        <CT300_N1>0</CT300_N1>
+        <CT301_C1>Tổng cộng</CT301_C1>
+        <CT301_N0>6424000</CT301_N0>
+        <CT301_N1>0</CT301_N1>
+        <ROWS>
+          <CT297_001_C1></CT297_001_C1>
+          <CT297_001_N0>6424000</CT297_001_N0>
+          <CT297_001_N1>0</CT297_001_N1>
+        </ROWS>
+      </BCTC_III21_TDTHLK>
+      <BCTC_III22_QTDV>
+        <CT302_C1>Quỹ phát triển hoạt động sự nghiệp: Trong đó:</CT302_C1>
+        <CT302_N0>0</CT302_N0>
+        <CT302_N1>0</CT302_N1>
+        <CT302d_C1>- Số đã sử dụng trong năm:....</CT302d_C1>
+        <CT302d_N0>0</CT302d_N0>
+        <CT302d_N1>0</CT302d_N1>
+        <CT302b_C1>- Số bổ sung quỹ từ khấu hao TSCĐ:....</CT302b_C1>
+        <CT302b_N0>0</CT302b_N0>
+        <CT302b_N1>0</CT302b_N1>
+        <CT302a_C1>- Số được trích lập theo tỷ lệ trong năm:....</CT302a_C1>
+        <CT302a_N0>0</CT302a_N0>
+        <CT302a_N1>0</CT302a_N1>
+        <CT302c_C1>- Số bổ sung khác:....</CT302c_C1>
+        <CT302c_N0>0</CT302c_N0>
+        <CT302c_N1>0</CT302c_N1>
+        <CT303_C1>Quỹ khác thuộc đơn vị (chi tiết theo tên quỹ):</CT303_C1>
+        <CT303_N0>0</CT303_N0>
+        <CT303_N1>0</CT303_N1>
+        <CT304_C1>Tổng cộng</CT304_C1>
+        <CT304_N0>0</CT304_N0>
+        <CT304_N1>0</CT304_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III22_QTDV>
+      <BCTC_III23_KPMSNS>
+        <CT305_C1>Kinh phí cải cách tiền lương: Trong đó:</CT305_C1>
+        <CT305_N0>0</CT305_N0>
+        <CT305_N1>0</CT305_N1>
+        <CT305a_C1>- Số đã trích trong năm:…</CT305a_C1>
+        <CT305a_N0>0</CT305a_N0>
+        <CT305a_N1>0</CT305a_N1>
+        <CT305b_C1>- Số sử dụng trong năm:…</CT305b_C1>
+        <CT305b_N0>0</CT305b_N0>
+        <CT305b_N1>0</CT305b_N1>
+        <CT306_C1>Kinh phí khác mang sang năm sau (chi tiết):</CT306_C1>
+        <CT306_N0>0</CT306_N0>
+        <CT306_N1>0</CT306_N1>
+        <CT307_C1>Tổng cộng</CT307_C1>
+        <CT307_N0>0</CT307_N0>
+        <CT307_N1>0</CT307_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III23_KPMSNS>
+      <BCTC_III24_SDTSTK>
+        <CT308_C1>Chênh lệch tỷ giá hối đoái</CT308_C1>
+        <CT308_N0>0</CT308_N0>
+        <CT308_N1>0</CT308_N1>
+        <CT309_C1>Tài sản thuần khác (chi tiết)</CT309_C1>
+        <CT309_N0>0</CT309_N0>
+        <CT309_N1>0</CT309_N1>
+        <CT310_C1>Tổng cộng</CT310_C1>
+        <CT310_N0>0</CT310_N0>
+        <CT310_N1>0</CT310_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_III24_SDTSTK>
+      <BCTC_III25_TTK>
+        <CTb43_r536_C1>…</CTb43_r536_C1>
+      </BCTC_III25_TTK>
+      <BCTC_IV01_NSNNC>
+        <CT311_C1>Kinh phí NSNN giao tự chủ cho hoạt động của đơn vị (trừ kinh phí đặt hàng, đấu thầu thực hiện dịch vụ sự nghiệp công từ NSNN)</CT311_C1>
+        <CT311_N0>19159307581</CT311_N0>
+        <CT311_N1>0</CT311_N1>
+        <CT312_C1>Kinh phí NSNN không giao tự chủ (trừ kinh phí giao nhiệm vụ thực hiện dịch vụ sự nghiệp công từ NSNN):</CT312_C1>
+        <CT312_N0>33908374933</CT312_N0>
+        <CT312_N1>0</CT312_N1>
+        <CT313_C1>NSNN giao hàng năm:</CT313_C1>
+        <CT313_N0>33908374933</CT313_N0>
+        <CT313_N1>0</CT313_N1>
+        <CT314_C1>Ngân sách địa phương hỗ trợ:</CT314_C1>
+        <CT314_N0>0</CT314_N0>
+        <CT314_N1>0</CT314_N1>
+        <CT315_C1>Kinh phí ủy quyền từ NSNN cấp trên cấp cho hoạt động của đơn vị:</CT315_C1>
+        <CT315_N0>0</CT315_N0>
+        <CT315_N1>0</CT315_N1>
+        <CT316_C1>Kinh phí NSNN cấp cho chi đầu tư:</CT316_C1>
+        <CT316_N0>0</CT316_N0>
+        <CT316_N1>0</CT316_N1>
+        <CT317_C1>Tổng cộng</CT317_C1>
+        <CT317_N0>53067682514</CT317_N0>
+        <CT317_N1>0</CT317_N1>
+        <ROWS>
+          <CT313_001_C1></CT313_001_C1>
+          <CT313_001_N0>33908374933</CT313_001_N0>
+          <CT313_001_N1>0</CT313_001_N1>
+        </ROWS>
+      </BCTC_IV01_NSNNC>
+      <BCTC_IV02_DTNN>
+        <CT318_C1>Doanh thu từ nguồn viện trợ nước ngoài</CT318_C1>
+        <CT318_N0>0</CT318_N0>
+        <CT318_N1>0</CT318_N1>
+        <CT319_C1>- Doanh thu từ viện trợ nước ngoài (theo dự án):</CT319_C1>
+        <CT319_N0>0</CT319_N0>
+        <CT319_N1>0</CT319_N1>
+        <CT322_C1>- Doanh thu từ viện trợ nước ngoài khác</CT322_C1>
+        <CT322_N0>0</CT322_N0>
+        <CT322_N1>0</CT322_N1>
+        <CT323_C1>Doanh thu từ nguồn vốn vay nợ nước ngoài (chi tiết dự án)</CT323_C1>
+        <CT323_N0>0</CT323_N0>
+        <CT323_N1>0</CT323_N1>
+        <CT326_C1>Tổng cộng</CT326_C1>
+        <CT326_N0>0</CT326_N0>
+        <CT326_N1>0</CT326_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV02_DTNN>
+      <BCTC_IV03_DTKTDL>
+        <CT327_C1>Doanh thu từ phí............ (tên loại phí, tỷ lệ để lại:...%)</CT327_C1>
+        <CT327_N0>0</CT327_N0>
+        <CT327_N1>0</CT327_N1>
+        <CT329_C1>Doanh thu nhận từ cấp trên cấp</CT329_C1>
+        <CT329_N0>0</CT329_N0>
+        <CT329_N1>0</CT329_N1>
+        <CT330_C1>Doanh thu do nhận hiện vật hình thành từ nguồn phí được khấu trừ, để lại</CT330_C1>
+        <CT330_N0>0</CT330_N0>
+        <CT330_N1>0</CT330_N1>
+        <CT331_C1>Tổng cộng</CT331_C1>
+        <CT331_N0>0</CT331_N0>
+        <CT331_N1>0</CT331_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV03_DTKTDL>
+      <BCTC_IV04_DTHDTC>
+        <CT332_C1>Tiền lãi (chi tiết):</CT332_C1>
+        <CT332_N0>0</CT332_N0>
+        <CT332_N1>0</CT332_N1>
+        <CT333_C1>Cổ tức, lợi nhuận được chia (chi tiết)</CT333_C1>
+        <CT333_N0>0</CT333_N0>
+        <CT333_N1>0</CT333_N1>
+        <CT334_C1>Doanh thu tài chính khác (chi tiết)</CT334_C1>
+        <CT334_N0>0</CT334_N0>
+        <CT334_N1>0</CT334_N1>
+        <CT335_C1>Tổng cộng</CT335_C1>
+        <CT335_N0>0</CT335_N0>
+        <CT335_N1>0</CT335_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV04_DTHDTC>
+      <BCTC_IV05_HDNV>
+        <CT336_C1>Chi tiết doanh thu từ hoạt động nghiệp vụ</CT336_C1>
+        <CT336_N0>0</CT336_N0>
+        <CT336_N1>0</CT336_N1>
+        <CT341_C1>Tổng cộng</CT341_C1>
+        <CT341_N0>0</CT341_N0>
+        <CT341_N1>0</CT341_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV05_HDNV>
+      <BCTC_IV06_KDDV>
+        <CT342_C1>Doanh thu cung cấp dịch vụ sự nghiệp công sử dụng NSNN (chi tiết từng loại dịch vụ sự nghiệp công). Lưu ý: Đối với phần kinh phí NSNN cấp để thực hiện dịch vụ sự nghiệp công không có số liệu chi tiết đến từng loại dịch vụ thì trình bày riêng 1 dòng cho phần kinh phí này, đối với phần đơn vị tự thu phải chi tiết riêng cho từng loại dịch vụ.</CT342_C1>
+        <CT342_N0>0</CT342_N0>
+        <CT342_N1>0</CT342_N1>
+        <CT352_C1>Doanh thu cung cấp dịch vụ sự nghiệp công không sử dụng NSNN (chi tiết từng loại dịch vụ sự nghiệp công)</CT352_C1>
+        <CT352_N0>0</CT352_N0>
+        <CT352_N1>0</CT352_N1>
+        <CT355_C1>Doanh thu hoạt động sản xuất kinh doanh khác (chi tiết)</CT355_C1>
+        <CT355_N0>0</CT355_N0>
+        <CT355_N1>0</CT355_N1>
+        <CT358_C1>Tổng cộng (= 1 + 2 + 3)</CT358_C1>
+        <CT358_N0>0</CT358_N0>
+        <CT358_N1>0</CT358_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV06_KDDV>
+      <BCTC_IV07_TNK>
+        <CT359_C1>Chi tiết thu nhập khác</CT359_C1>
+        <CT359_N0>0</CT359_N0>
+        <CT359_N1>0</CT359_N1>
+        <CT361_C1>Tổng cộng</CT361_C1>
+        <CT361_N0>0</CT361_N0>
+        <CT361_N1>0</CT361_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV07_TNK>
+      <BCTC_IV08_HDKGTC>
+        <CT362_C1>Hoạt động....</CT362_C1>
+        <CT362_N0>33908374933</CT362_N0>
+        <CT362_N1>0</CT362_N1>
+        <CT362d_C1>Chi phí khác của hoạt động không giao tự chủ</CT362d_C1>
+        <CT362d_N0>10786181506</CT362d_N0>
+        <CT362d_N1>0</CT362d_N1>
+        <CT362c_C1>Chi phí hao mòn TSCĐ</CT362c_C1>
+        <CT362c_N0>866566000</CT362c_N0>
+        <CT362c_N1>0</CT362c_N1>
+        <CT362b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT362b_C1>
+        <CT362b_N0>22255627427</CT362b_N0>
+        <CT362b_N1>0</CT362b_N1>
+        <CT362a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT362a_C1>
+        <CT362a_N0>0</CT362a_N0>
+        <CT362a_N1>0</CT362a_N1>
+        <CT363_C1>Hoạt động....</CT363_C1>
+        <CT363_N0>0</CT363_N0>
+        <CT363_N1>0</CT363_N1>
+        <CT363b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT363b_C1>
+        <CT363b_N0>0</CT363b_N0>
+        <CT363b_N1>0</CT363b_N1>
+        <CT363a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT363a_C1>
+        <CT363a_N0>0</CT363a_N0>
+        <CT363a_N1>0</CT363a_N1>
+        <CT363d_C1>Chi phí khác của hoạt động không giao tự chủ</CT363d_C1>
+        <CT363d_N0>0</CT363d_N0>
+        <CT363d_N1>0</CT363d_N1>
+        <CT363c_C1>Chi phí hao mòn TSCĐ</CT363c_C1>
+        <CT363c_N0>0</CT363c_N0>
+        <CT363c_N1>0</CT363c_N1>
+        <CT364_C1>Hoạt động....</CT364_C1>
+        <CT364_N0>0</CT364_N0>
+        <CT364_N1>0</CT364_N1>
+        <CT364a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT364a_C1>
+        <CT364a_N0>0</CT364a_N0>
+        <CT364a_N1>0</CT364a_N1>
+        <CT364b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT364b_C1>
+        <CT364b_N0>0</CT364b_N0>
+        <CT364b_N1>0</CT364b_N1>
+        <CT364c_C1>Chi phí hao mòn TSCĐ</CT364c_C1>
+        <CT364c_N0>0</CT364c_N0>
+        <CT364c_N1>0</CT364c_N1>
+        <CT364d_C1>Chi phí khác của hoạt động không giao tự chủ</CT364d_C1>
+        <CT364d_N0>0</CT364d_N0>
+        <CT364d_N1>0</CT364d_N1>
+        <CT365_C1>Hoạt động....</CT365_C1>
+        <CT365_N0>0</CT365_N0>
+        <CT365_N1>0</CT365_N1>
+        <CT365a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT365a_C1>
+        <CT365a_N0>0</CT365a_N0>
+        <CT365a_N1>0</CT365a_N1>
+        <CT365b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT365b_C1>
+        <CT365b_N0>0</CT365b_N0>
+        <CT365b_N1>0</CT365b_N1>
+        <CT365c_C1>Chi phí hao mòn TSCĐ</CT365c_C1>
+        <CT365c_N0>0</CT365c_N0>
+        <CT365c_N1>0</CT365c_N1>
+        <CT365d_C1>Chi phí khác của hoạt động không giao tự chủ</CT365d_C1>
+        <CT365d_N0>0</CT365d_N0>
+        <CT365d_N1>0</CT365d_N1>
+        <CT366_C1>Hoạt động....</CT366_C1>
+        <CT366_N0>0</CT366_N0>
+        <CT366_N1>0</CT366_N1>
+        <CT366a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT366a_C1>
+        <CT366a_N0>0</CT366a_N0>
+        <CT366a_N1>0</CT366a_N1>
+        <CT366b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT366b_C1>
+        <CT366b_N0>0</CT366b_N0>
+        <CT366b_N1>0</CT366b_N1>
+        <CT366c_C1>Chi phí hao mòn TSCĐ</CT366c_C1>
+        <CT366c_N0>0</CT366c_N0>
+        <CT366c_N1>0</CT366c_N1>
+        <CT366d_C1>Chi phí khác của hoạt động không giao tự chủ</CT366d_C1>
+        <CT366d_N0>0</CT366d_N0>
+        <CT366d_N1>0</CT366d_N1>
+        <CT367_C1>Hoạt động khác</CT367_C1>
+        <CT367_N0>0</CT367_N0>
+        <CT367_N1>0</CT367_N1>
+        <CT367a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT367a_C1>
+        <CT367a_N0>0</CT367a_N0>
+        <CT367a_N1>0</CT367a_N1>
+        <CT367b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT367b_C1>
+        <CT367b_N0>0</CT367b_N0>
+        <CT367b_N1>0</CT367b_N1>
+        <CT367c_C1>Chi phí hao mòn TSCĐ</CT367c_C1>
+        <CT367c_N0>0</CT367c_N0>
+        <CT367c_N1>0</CT367c_N1>
+        <CT367d_C1>Chi phí khác của hoạt động không giao tự chủ</CT367d_C1>
+        <CT367d_N0>0</CT367d_N0>
+        <CT367d_N1>0</CT367d_N1>
+        <CT368_C1>Tổng cộng</CT368_C1>
+        <CT368_N0>33908374933</CT368_N0>
+        <CT368_N1>0</CT368_N1>
+      </BCTC_IV08_HDKGTC>
+      <BCTC_IV09_HDGTC>
+        <CT374_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT374_C1>
+        <CT374_N0>16708771011</CT374_N0>
+        <CT374_N1>0</CT374_N1>
+        <CT375_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT375_C1>
+        <CT375_N0>1590793153</CT375_N0>
+        <CT375_N1>0</CT375_N1>
+        <CT376_C1>Chi phí hao mòn TSCĐ</CT376_C1>
+        <CT376_N0>0</CT376_N0>
+        <CT376_N1>0</CT376_N1>
+        <CT377_C1>Chi phí khác của hoạt động giao tự chủ</CT377_C1>
+        <CT377_N0>851716100</CT377_N0>
+        <CT377_N1>0</CT377_N1>
+        <CT378_C1>Tổng cộng</CT378_C1>
+        <CT378_N0>19151280264</CT378_N0>
+        <CT378_N1>0</CT378_N1>
+      </BCTC_IV09_HDGTC>
+      <BCTC_IV10_CPTC>
+        <CT379_C1>Lãi tiền vay</CT379_C1>
+        <CT379_N0>0</CT379_N0>
+        <CT379_N1>0</CT379_N1>
+        <CT380_C1>Lỗ do thanh lý các khoản đầu tư tài chính</CT380_C1>
+        <CT380_N0>0</CT380_N0>
+        <CT380_N1>0</CT380_N1>
+        <CT381_C1>Dự phòng tổn thất đầu tư</CT381_C1>
+        <CT381_N0>0</CT381_N0>
+        <CT381_N1>0</CT381_N1>
+        <CT382_C1>Chi phí tài chính khác</CT382_C1>
+        <CT382_N0>0</CT382_N0>
+        <CT382_N1>0</CT382_N1>
+        <CT383_C1>Tổng cộng</CT383_C1>
+        <CT383_N0>0</CT383_N0>
+        <CT383_N1>0</CT383_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV10_CPTC>
+      <BCTC_IV11_1GVTHD>
+        <CT384_C1>Giá vốn hoạt động dịch vụ sự nghiệp công sử dụng NSNN</CT384_C1>
+        <CT384_N0>0</CT384_N0>
+        <CT384_N1>0</CT384_N1>
+        <CT388_C1>Giá vốn hoạt động dịch vụ sự nghiệp công không sử dụng NSNN</CT388_C1>
+        <CT388_N0>0</CT388_N0>
+        <CT388_N1>0</CT388_N1>
+        <CT392_C1>Giá vốn của hoạt động sản xuất kinh doanh khác</CT392_C1>
+        <CT392_N0>0</CT392_N0>
+        <CT392_N1>0</CT392_N1>
+        <CT396_C1>Dự phòng giảm giá hàng tồn kho:</CT396_C1>
+        <CT396_N0>0</CT396_N0>
+        <CT396_N1>0</CT396_N1>
+        <CT397_C1>Các khoản ghi nhận vào giá vốn khác (chi tiết)</CT397_C1>
+        <CT397_N0>0</CT397_N0>
+        <CT397_N1>0</CT397_N1>
+        <CT398_C1>Tổng cộng</CT398_C1>
+        <CT398_N0>0</CT398_N0>
+        <CT398_N1>0</CT398_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV11_1GVTHD>
+      <BCTC_IV11_2GVTCP>
+        <CT399_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT399_C1>
+        <CT399_N0>0</CT399_N0>
+        <CT399_N1>0</CT399_N1>
+        <CT400_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT400_C1>
+        <CT400_N0>0</CT400_N0>
+        <CT400_N1>0</CT400_N1>
+        <CT401_C1>Chi phí khấu hao TSCĐ</CT401_C1>
+        <CT401_N0>0</CT401_N0>
+        <CT401_N1>0</CT401_N1>
+        <CT402_C1>Chi phí khác tính vào giá vốn hàng bán</CT402_C1>
+        <CT402_N0>0</CT402_N0>
+        <CT402_N1>0</CT402_N1>
+        <CT403_C1>Tổng cộng</CT403_C1>
+        <CT403_N0>0</CT403_N0>
+        <CT403_N1>0</CT403_N1>
+      </BCTC_IV11_2GVTCP>
+      <BCTC_IV12_CPBH>
+        <CT404_C1>Chi phí liên quan đến hoạt động bán hàng:</CT404_C1>
+        <CT404_N0>0</CT404_N0>
+        <CT404_N1>0</CT404_N1>
+        <CT405_C1>Dự phòng bảo hành sản phẩm, hàng hóa:</CT405_C1>
+        <CT405_N0>0</CT405_N0>
+        <CT405_N1>0</CT405_N1>
+        <CT406_C1>Tổng cộng</CT406_C1>
+        <CT406_N0>0</CT406_N0>
+        <CT406_N1>0</CT406_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV12_CPBH>
+      <BCTC_IV13_HDSXDK>
+        <CT407_C1>Hoạt động....</CT407_C1>
+        <CT407_N0>0</CT407_N0>
+        <CT407_N1>0</CT407_N1>
+        <CT407a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT407a_C1>
+        <CT407a_N0>0</CT407a_N0>
+        <CT407a_N1>0</CT407a_N1>
+        <CT407b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT407b_C1>
+        <CT407b_N0>0</CT407b_N0>
+        <CT407b_N1>0</CT407b_N1>
+        <CT407c_C1>Chi phí hao mòn/khấu hao TSCĐ</CT407c_C1>
+        <CT407c_N0>0</CT407c_N0>
+        <CT407c_N1>0</CT407c_N1>
+        <CT407d_C1>Chi phí khác của hoạt động không giao tự chủ</CT407d_C1>
+        <CT407d_N0>0</CT407d_N0>
+        <CT407d_N1>0</CT407d_N1>
+        <CT408_C1>Hoạt động....</CT408_C1>
+        <CT408_N0>0</CT408_N0>
+        <CT408_N1>0</CT408_N1>
+        <CT408c_C1>Chi phí hao mòn/khấu hao TSCĐ</CT408c_C1>
+        <CT408c_N0>0</CT408c_N0>
+        <CT408c_N1>0</CT408c_N1>
+        <CT408d_C1>Chi phí khác của hoạt động không giao tự chủ</CT408d_C1>
+        <CT408d_N0>0</CT408d_N0>
+        <CT408d_N1>0</CT408d_N1>
+        <CT408a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT408a_C1>
+        <CT408a_N0>0</CT408a_N0>
+        <CT408a_N1>0</CT408a_N1>
+        <CT408b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT408b_C1>
+        <CT408b_N0>0</CT408b_N0>
+        <CT408b_N1>0</CT408b_N1>
+        <CT409_C1>Hoạt động....</CT409_C1>
+        <CT409_N0>0</CT409_N0>
+        <CT409_N1>0</CT409_N1>
+        <CT409a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT409a_C1>
+        <CT409a_N0>0</CT409a_N0>
+        <CT409a_N1>0</CT409a_N1>
+        <CT409b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT409b_C1>
+        <CT409b_N0>0</CT409b_N0>
+        <CT409b_N1>0</CT409b_N1>
+        <CT409c_C1>Chi phí hao mòn/khấu hao TSCĐ</CT409c_C1>
+        <CT409c_N0>0</CT409c_N0>
+        <CT409c_N1>0</CT409c_N1>
+        <CT409d_C1>Chi phí khác của hoạt động không giao tự chủ</CT409d_C1>
+        <CT409d_N0>0</CT409d_N0>
+        <CT409d_N1>0</CT409d_N1>
+        <CT410_C1>Hoạt động....</CT410_C1>
+        <CT410_N0>0</CT410_N0>
+        <CT410_N1>0</CT410_N1>
+        <CT410a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT410a_C1>
+        <CT410a_N0>0</CT410a_N0>
+        <CT410a_N1>0</CT410a_N1>
+        <CT410b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT410b_C1>
+        <CT410b_N0>0</CT410b_N0>
+        <CT410b_N1>0</CT410b_N1>
+        <CT410c_C1>Chi phí hao mòn/khấu hao TSCĐ</CT410c_C1>
+        <CT410c_N0>0</CT410c_N0>
+        <CT410c_N1>0</CT410c_N1>
+        <CT410d_C1>Chi phí khác của hoạt động không giao tự chủ</CT410d_C1>
+        <CT410d_N0>0</CT410d_N0>
+        <CT410d_N1>0</CT410d_N1>
+        <CT411_C1>Hoạt động....</CT411_C1>
+        <CT411_N0>0</CT411_N0>
+        <CT411_N1>0</CT411_N1>
+        <CT411a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT411a_C1>
+        <CT411a_N0>0</CT411a_N0>
+        <CT411a_N1>0</CT411a_N1>
+        <CT411b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT411b_C1>
+        <CT411b_N0>0</CT411b_N0>
+        <CT411b_N1>0</CT411b_N1>
+        <CT411c_C1>Chi phí hao mòn/khấu hao TSCĐ</CT411c_C1>
+        <CT411c_N0>0</CT411c_N0>
+        <CT411c_N1>0</CT411c_N1>
+        <CT411d_C1>Chi phí khác của hoạt động không giao tự chủ</CT411d_C1>
+        <CT411d_N0>0</CT411d_N0>
+        <CT411d_N1>0</CT411d_N1>
+        <CT412_C1>Hoạt động khác</CT412_C1>
+        <CT412_N0>0</CT412_N0>
+        <CT412_N1>0</CT412_N1>
+        <CT412a_C1>Chi phí tiền lương, tiền công và chi phí khác cho người lao động</CT412a_C1>
+        <CT412a_N0>0</CT412a_N0>
+        <CT412a_N1>0</CT412a_N1>
+        <CT412b_C1>Chi phí vật tư và dịch vụ đã sử dụng</CT412b_C1>
+        <CT412b_N0>0</CT412b_N0>
+        <CT412b_N1>0</CT412b_N1>
+        <CT412c_C1>Chi phí hao mòn/khấu hao TSCĐ</CT412c_C1>
+        <CT412c_N0>0</CT412c_N0>
+        <CT412c_N1>0</CT412c_N1>
+        <CT412d_C1>Chi phí khác của hoạt động không giao tự chủ</CT412d_C1>
+        <CT412d_N0>0</CT412d_N0>
+        <CT412d_N1>0</CT412d_N1>
+        <CT413_C1>Trong đó chi phí dự phòng</CT413_C1>
+        <CT413_N0>0</CT413_N0>
+        <CT413_N1>0</CT413_N1>
+        <CT417_C1>Tổng cộng</CT417_C1>
+        <CT417_N0>0</CT417_N0>
+        <CT417_N1>0</CT417_N1>
+      </BCTC_IV13_HDSXDK>
+      <BCTC_IV14_KPK>
+        <CT418_C1>Chi phí thanh lý, nhượng bán TSCĐ:</CT418_C1>
+        <CT418_N0>0</CT418_N0>
+        <CT418_N1>0</CT418_N1>
+        <CT419_C1>Các khoản chi phí khác (chi tiết):</CT419_C1>
+        <CT419_N0>0</CT419_N0>
+        <CT419_N1>0</CT419_N1>
+        <CT420_C1>Tổng cộng</CT420_C1>
+        <CT420_N0>0</CT420_N0>
+        <CT420_N1>0</CT420_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV14_KPK>
+      <BCTC_IV15_TSBG>
+        <CT421_C1>Bàn giao tài sản cho đơn vị kế toán khác (chi tiết đơn vị nhận và loại tài sản bàn giao)</CT421_C1>
+        <CT421_N0>0</CT421_N0>
+        <CT421_N1>0</CT421_N1>
+        <CT422_C1>Bàn giao tài sản hình thành sau đầu tư (chi tiết đơn vị nhận)</CT422_C1>
+        <CT422_N0>0</CT422_N0>
+        <CT422_N1>0</CT422_N1>
+        <CT423_C1>Tổng cộng</CT423_C1>
+        <CT423_N0>0</CT423_N0>
+        <CT423_N1>0</CT423_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV15_TSBG>
+      <BCTC_IV16_TTNDN>
+        <CT424_C1>Chi phí thuế TNDN tính trên thu nhập chịu thuế năm hiện hành</CT424_C1>
+        <CT424_N0>0</CT424_N0>
+        <CT424_N1>0</CT424_N1>
+        <CT425_C1>Điều chỉnh chi phí thuế TNDN của các năm trước vào chi phí thuế TNDN năm hiện hành</CT425_C1>
+        <CT425_N0>0</CT425_N0>
+        <CT425_N1>0</CT425_N1>
+        <CT426_C1>Tổng cộng</CT426_C1>
+        <CT426_N0>0</CT426_N0>
+        <CT426_N1>0</CT426_N1>
+      </BCTC_IV16_TTNDN>
+      <BCTC_IV17_DCKQHD>
+        <CT427_C1>Chi phí trong năm được bù đắp bằng nguồn quỹ thuộc đơn vị</CT427_C1>
+        <CT427_N0>0</CT427_N0>
+        <CT427_N1>0</CT427_N1>
+        <CT428_C1>Chi phí trong năm được bù đắp bằng nguồn kinh phí năm trước mang sang</CT428_C1>
+        <CT428_N0>0</CT428_N0>
+        <CT428_N1>0</CT428_N1>
+        <CT429_C1>Chi phí hao mòn TSCĐ trong năm của các TSCĐ đã mua sắm từ các năm trước</CT429_C1>
+        <CT429_N0>0</CT429_N0>
+        <CT429_N1>0</CT429_N1>
+        <CT430_C1>Chi phí tài sản bàn giao cho đơn vị khác</CT430_C1>
+        <CT430_N0>0</CT430_N0>
+        <CT430_N1>0</CT430_N1>
+        <CT430b_C1>- Chi phí bàn giao tài sản cho đơn vị kế toán khác (đối với tài sản đã hình thành từ năm trước nhưng trong năm bàn giao cho đơn vị khác)</CT430b_C1>
+        <CT430b_N0>0</CT430b_N0>
+        <CT430b_N1>0</CT430b_N1>
+        <CT430a_C1>- Chi phí bàn giao dự án, công trình hoàn thành sau đầu tư (phần khối lượng hoàn thành đã thanh toán từ năm trước)</CT430a_C1>
+        <CT430a_N0>0</CT430a_N0>
+        <CT430a_N1>0</CT430a_N1>
+        <CT431_C1>Các chi phí khác phát sinh trong năm do sử dụng các nguồn lực đã được ghi nhận doanh thu từ năm trước</CT431_C1>
+        <CT431_N0>0</CT431_N0>
+        <CT431_N1>0</CT431_N1>
+        <CT432_C1>Tổng cộng</CT432_C1>
+        <CT432_N0>0</CT432_N0>
+        <CT432_N1>0</CT432_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV17_DCKQHD>
+      <BCTC_18_TCPPTN>
+        <CT433_C1>Kinh phí được giao tự chủ (hoặc khoán chi) trong năm:</CT433_C1>
+        <CT433_N0>0</CT433_N0>
+        <CT433_N1>0</CT433_N1>
+        <CT434_C1>Dự toán (đối với trường hợp tính chênh lệch thu, chi theo dự toán được giao)</CT434_C1>
+        <CT434_N0>0</CT434_N0>
+        <CT434_N1>0</CT434_N1>
+        <CT437_C1>Số thu trong năm (đối với trường hợp tính chênh lệch thu, chi theo số thu được)</CT437_C1>
+        <CT437_N0>0</CT437_N0>
+        <CT437_N1>0</CT437_N1>
+        <CT443_C1>Chi hoạt động được giao tự chủ trong năm (chi tiết)</CT443_C1>
+        <CT443_N0>0</CT443_N0>
+        <CT443_N1>0</CT443_N1>
+        <CT445_C1>Số trích khấu hao tài sản cố định trong năm</CT445_C1>
+        <CT445_N0>0</CT445_N0>
+        <CT445_N1>0</CT445_N1>
+        <CT446_C1>Số trích lập nguồn cải cách tiền lương</CT446_C1>
+        <CT446_N0>0</CT446_N0>
+        <CT446_N1>0</CT446_N1>
+        <CT447_C1>Số nộp thuế và các khoản nộp ngân sách nhà nước theo quy định</CT447_C1>
+        <CT447_N0>0</CT447_N0>
+        <CT447_N1>0</CT447_N1>
+        <CT448_C1>Kinh phí chuyển năm sau</CT448_C1>
+        <CT448_N0>0</CT448_N0>
+        <CT448_N1>0</CT448_N1>
+        <CT449_C1>Số chênh lệch thu, chi (tiết kiệm chi) cuối năm theo cơ chế tài chính</CT449_C1>
+        <CT449_N0>0</CT449_N0>
+        <CT449_N1>0</CT449_N1>
+        <CT450_C1>Phân phối theo cơ chế tài chính (trường hợp đơn vị được trích lập quỹ):</CT450_C1>
+        <CT450_N0>0</CT450_N0>
+        <CT450_N1>0</CT450_N1>
+        <CT456_C1>Phân phối theo cơ chế tài chính (trường hợp đơn vị không được trích lập các quỹ):</CT456_C1>
+        <CT456_N0>0</CT456_N0>
+        <CT456_N1>0</CT456_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_18_TCPPTN>
+      <BCTC_IV19_KPNS>
+        <CT460_C1>Chi tiết nguồn kinh phí mang sang năm sau</CT460_C1>
+        <CT460_N0>8027317</CT460_N0>
+        <CT460_N1>0</CT460_N1>
+        <CT462_C1>Tổng cộng</CT462_C1>
+        <CT462_N0>8027317</CT462_N0>
+        <CT462_N1>0</CT462_N1>
+        <ROWS>
+          <CT460_001_C1></CT460_001_C1>
+          <CT460_001_N0>8027317</CT460_001_N0>
+          <CT460_001_N1>0</CT460_001_N1>
+        </ROWS>
+      </BCTC_IV19_KPNS>
+      <BCTC_IV20_TDTH>
+        <CT463_C1>Chi tiết thặng dư không phân phối/thâm hụt chuyển năm sau</CT463_C1>
+        <CT463_N0>0</CT463_N0>
+        <CT463_N1>0</CT463_N1>
+        <CT465_C1>Tổng cộng</CT465_C1>
+        <CT465_N0>0</CT465_N0>
+        <CT465_N1>0</CT465_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_IV20_TDTH>
+      <BCTC_IV21_KHAC>
+        <CTb65_r789_C1>…</CTb65_r789_C1>
+      </BCTC_IV21_KHAC>
+      <BCTC_V01_KPNSNN>
+        <CT466_C1>Rút dự toán ngân sách giao trong năm bằng tiền</CT466_C1>
+        <CT466_N0>147310768</CT466_N0>
+        <CT466_N1>0</CT466_N1>
+        <CT467_C1>- Rút dự toán ngân sách bằng tiền mặt</CT467_C1>
+        <CT467_N0>0</CT467_N0>
+        <CT467_N1>0</CT467_N1>
+        <CT468_C1>- Rút dự toán chuyển số chênh lệch thu chi, tiết kiệm chi vào TK tiền gửi của đơn vị</CT468_C1>
+        <CT468_N0>0</CT468_N0>
+        <CT468_N1>0</CT468_N1>
+        <CT469_C1>- Rút khác (nếu có)</CT469_C1>
+        <CT469_N0>147310768</CT469_N0>
+        <CT469_N1>0</CT469_N1>
+        <CT470_C1>Ngân sách cấp bằng tiền trong năm:</CT470_C1>
+        <CT470_N0>0</CT470_N0>
+        <CT470_N1>0</CT470_N1>
+        <CT471_C1>- Lệnh chi tiền thực chi</CT471_C1>
+        <CT471_N0>0</CT471_N0>
+        <CT471_N1>0</CT471_N1>
+        <CT472_C1>- Lệnh chi tiền tạm ứng</CT472_C1>
+        <CT472_N0>0</CT472_N0>
+        <CT472_N1>0</CT472_N1>
+        <CT473_C1>- Cơ quan cấp trên cấp từ nguồn NSNN</CT473_C1>
+        <CT473_N0>0</CT473_N0>
+        <CT473_N1>0</CT473_N1>
+        <CT474_C1>Tổng cộng</CT474_C1>
+        <CT474_N0>147310768</CT474_N0>
+        <CT474_N1>0</CT474_N1>
+      </BCTC_V01_KPNSNN>
+      <BCTC_V02_VTNN>
+        <CT475_C1>Chi tiết tiền thu viện trợ nước ngoài</CT475_C1>
+        <CT475_N0>0</CT475_N0>
+        <CT475_N1>0</CT475_N1>
+        <CT477_C1>Tổng cộng</CT477_C1>
+        <CT477_N0>0</CT477_N0>
+        <CT477_N1>0</CT477_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V02_VTNN>
+      <BCTC_V03_TPLP>
+        <CT478_C1>Phí … (chi tiết tên từng loại)</CT478_C1>
+        <CT478_N0>0</CT478_N0>
+        <CT478_N1>0</CT478_N1>
+        <CT479_C1>Lệ phí … (chi tiết)</CT479_C1>
+        <CT479_N0>0</CT479_N0>
+        <CT479_N1>0</CT479_N1>
+        <CT480_C1>Tổng cộng</CT480_C1>
+        <CT480_N0>0</CT480_N0>
+        <CT480_N1>0</CT480_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V03_TPLP>
+      <BCTC_V04_HDNV>
+        <CT481_C1>Chi tiết tiền thu từ hoạt động nghiệp vụ</CT481_C1>
+        <CT481_N0>0</CT481_N0>
+        <CT481_N1>0</CT481_N1>
+        <CT483_C1>Tổng cộng</CT483_C1>
+        <CT483_N0>0</CT483_N0>
+        <CT483_N1>0</CT483_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V04_HDNV>
+      <BCTC_V05_KDDV>
+        <CT484_C1>Tiền thu từ hoạt động cung cấp dịch vụ sự nghiệp công sử dụng NSNN (chi tiết từng loại dịch vụ sự nghiệp công). Lưu ý: Đối với phần kinh phí NSNN cấp để thực hiện dịch vụ sự nghiệp công không có số liệu chi tiết đến từng loại dịch vụ thì trình bày riêng 1 dòng cho phần kinh phí này, đối với phần đơn vị tự thu phải chi tiết riêng cho từng loại dịch vụ.</CT484_C1>
+        <CT484_N0>0</CT484_N0>
+        <CT484_N1>0</CT484_N1>
+        <CT494_C1>Tiền thu từ hoạt động cung cấp dịch vụ sự nghiệp công không sử dụng NSNN (chi tiết từng loại dịch vụ sự nghiệp công)</CT494_C1>
+        <CT494_N0>0</CT494_N0>
+        <CT494_N1>0</CT494_N1>
+        <CT498_C1>Tiền thu từ hoạt động sản xuất kinh doanh khác (chi tiết):</CT498_C1>
+        <CT498_N0>0</CT498_N0>
+        <CT498_N1>0</CT498_N1>
+        <CT502_C1>Tổng cộng (=1+2+3)</CT502_C1>
+        <CT502_N0>0</CT502_N0>
+        <CT502_N1>0</CT502_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V05_KDDV>
+      <BCTC_V06_TNHDC>
+        <CT503_C1>Chi tiết tiền thu nhập khác thuộc hoạt động chính</CT503_C1>
+        <CT503_N0>0</CT503_N0>
+        <CT503_N1>0</CT503_N1>
+        <CT505_C1>Tổng cộng</CT505_C1>
+        <CT505_N0>0</CT505_N0>
+        <CT505_N1>0</CT505_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V06_TNHDC>
+      <BCTC_V07_TKHDC>
+        <CT506_C1>Chi tiết tiền thu khác thuộc hoạt động chính</CT506_C1>
+        <CT506_N0>0</CT506_N0>
+        <CT506_N1>0</CT506_N1>
+        <CT508_C1>Tổng cộng</CT508_C1>
+        <CT508_N0>0</CT508_N0>
+        <CT508_N1>0</CT508_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V07_TKHDC>
+      <BCTC_V08_CKHDC>
+        <CT509_C1>Chi tiết tiền chi khác thuộc hoạt động chính</CT509_C1>
+        <CT509_N0>0</CT509_N0>
+        <CT509_N1>0</CT509_N1>
+        <CT511_C1>Tổng cộng</CT511_C1>
+        <CT511_N0>0</CT511_N0>
+        <CT511_N1>0</CT511_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V08_CKHDC>
+      <BCTC_V09_CPDD>
+        <CT512_C1>Chi tiết tiền nhận được từ kinh phí chi đầu tư</CT512_C1>
+        <CT512_N0>0</CT512_N0>
+        <CT512_N1>0</CT512_N1>
+        <CT514_C1>Tổng cộng</CT514_C1>
+        <CT514_N0>0</CT514_N0>
+        <CT514_N1>0</CT514_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V09_CPDD>
+      <BCTC_V10_NBTSCD>
+        <CT515_C1>Chi tiết tiền thu từ thanh lý, nhượng bán TSCĐ</CT515_C1>
+        <CT515_N0>0</CT515_N0>
+        <CT515_N1>0</CT515_N1>
+        <CT517_C1>Tổng cộng</CT517_C1>
+        <CT517_N0>0</CT517_N0>
+        <CT517_N1>0</CT517_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V10_NBTSCD>
+      <BCTC_V11_DTVG>
+        <CT518_C1>Chi tiết tiền thu hồi từ các khoản đầu tư góp vốn</CT518_C1>
+        <CT518_N0>0</CT518_N0>
+        <CT518_N1>0</CT518_N1>
+        <CT520_C1>Tổng cộng</CT520_C1>
+        <CT520_N0>0</CT520_N0>
+        <CT520_N1>0</CT520_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V11_DTVG>
+      <BCTC_V12_LNDC>
+        <CT521_C1>Chi tiết tiền thu hồi từ các khoản đầu tư góp vốn</CT521_C1>
+        <CT521_N0>0</CT521_N0>
+        <CT521_N1>0</CT521_N1>
+        <CT523_C1>Tổng cộng</CT523_C1>
+        <CT523_N0>0</CT523_N0>
+        <CT523_N1>0</CT523_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V12_LNDC>
+      <BCTC_V13_TSCD>
+        <CT524_C1>Tiền chi đầu tư xây dựng:</CT524_C1>
+        <CT524_N0>0</CT524_N0>
+        <CT524_N1>0</CT524_N1>
+        <CT525_C1>Tiền chi mua sắm TSCĐ:</CT525_C1>
+        <CT525_N0>0</CT525_N0>
+        <CT525_N1>0</CT525_N1>
+        <CT526_C1>Tổng cộng</CT526_C1>
+        <CT526_N0>0</CT526_N0>
+        <CT526_N1>0</CT526_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V13_TSCD>
+      <BCTC_V14_TNGV>
+        <CT527_C1>Chi tiết tiền chi đầu tư, góp vốn vào đơn vị khác</CT527_C1>
+        <CT527_N0>0</CT527_N0>
+        <CT527_N1>0</CT527_N1>
+        <CT529_C1>Tổng cộng</CT529_C1>
+        <CT529_N0>0</CT529_N0>
+        <CT529_N1>0</CT529_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V14_TNGV>
+      <BCTC_V15_DVDV>
+        <CT530_C1>Chi tiết tiền nhận từ các khoản đơn vị đi vay</CT530_C1>
+        <CT530_N0>0</CT530_N0>
+        <CT530_N1>0</CT530_N1>
+        <CT532_C1>Tổng cộng</CT532_C1>
+        <CT532_N0>0</CT532_N0>
+        <CT532_N1>0</CT532_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V15_DVDV>
+      <BCTC_V16_NGV>
+        <CT533_C1>Chi tiết tiền nhận góp vốn</CT533_C1>
+        <CT533_N0>0</CT533_N0>
+        <CT533_N1>0</CT533_N1>
+        <CT535_C1>Tổng cộng</CT535_C1>
+        <CT535_N0>0</CT535_N0>
+        <CT535_N1>0</CT535_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V16_NGV>
+      <BCTC_V17_HTGVAY>
+        <CT536_C1>Chi tiết các khoản tiền hoàn trả gốc vay</CT536_C1>
+        <CT536_N0>0</CT536_N0>
+        <CT536_N1>0</CT536_N1>
+        <CT538_C1>Tổng cộng</CT538_C1>
+        <CT538_N0>0</CT538_N0>
+        <CT538_N1>0</CT538_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V17_HTGVAY>
+      <BCTC_V18_HTVG>
+        <CT539_C1>Chi tiết các khoản tiền hoàn trả vốn góp</CT539_C1>
+        <CT539_N0>0</CT539_N0>
+        <CT539_N1>0</CT539_N1>
+        <CT541_C1>Tổng cộng</CT541_C1>
+        <CT541_N0>0</CT541_N0>
+        <CT541_N1>0</CT541_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V18_HTVG>
+      <BCTC_V19_PPCSH>
+        <CT542_C1>Chi tiết các khoản tiền phân phối cho chủ sở hữu</CT542_C1>
+        <CT542_N0>0</CT542_N0>
+        <CT542_N1>0</CT542_N1>
+        <CT544_C1>Tổng cộng</CT544_C1>
+        <CT544_N0>0</CT544_N0>
+        <CT544_N1>0</CT544_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V19_PPCSH>
+      <BCTC_V20_GDBTIEN>
+        <CT545_C1>Các giao dịch không bằng tiền trong kỳ ảnh hưởng đến báo cáo lưu chuyển tiền tệ</CT545_C1>
+        <CT545_N0>0</CT545_N0>
+        <CT545_N1>0</CT545_N1>
+        <CT547_C1>Tổng cộng</CT547_C1>
+        <CT547_N0>0</CT547_N0>
+        <CT547_N1>0</CT547_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V20_GDBTIEN>
+      <BCTC_V21_KDSD>
+        <CT548_C1>(Phản ánh các khoản tiền đơn vị đang nắm giữ nhưng không được sử dụng như tiền của dự án, tiền mua hàng hóa vật tư dự trữ nhà nước, tiền của các quỹ tài chính, do đơn vị nắm giữ không tính vào kinh phí hoạt động của đơn vị nhưng được hạch toán chung sồ kế toán với kinh phí hoạt động của đơn vị)</CT548_C1>
+        <CT548_N0>0</CT548_N0>
+        <CT548_N1>0</CT548_N1>
+        <CT550_C1>Tổng cộng</CT550_C1>
+        <CT550_N0>0</CT550_N0>
+        <CT550_N1>0</CT550_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_V21_KDSD>
+      <BCTC_V22_NSNN>
+        <CT551_C1>Kinh phí từ nguồn NSNN cấp trong nước</CT551_C1>
+        <CT551_N0>0</CT551_N0>
+        <CT551_N1>0</CT551_N1>
+        <CT551_N2>0</CT551_N2>
+        <CT556_C1>Nguồn viện trợ nước ngoài</CT556_C1>
+        <CT556_N0>0</CT556_N0>
+        <CT556_N1>0</CT556_N1>
+        <CT556_N2>0</CT556_N2>
+        <CT557_C1>Nguồn vay nợ nước ngoài theo dự án</CT557_C1>
+        <CT557_N0>0</CT557_N0>
+        <CT557_N1>0</CT557_N1>
+        <CT557_N2>0</CT557_N2>
+        <CT558_C1>Kinh phí tài trợ nhỏ lẻ khác</CT558_C1>
+        <CT558_N0>0</CT558_N0>
+        <CT558_N1>0</CT558_N1>
+        <CT558_N2>0</CT558_N2>
+        <ROWS>
+        </ROWS>
+      </BCTC_V22_NSNN>
+      <BCTC_V23_LCTT>
+        <CTb88_r947_C1>…</CTb88_r947_C1>
+      </BCTC_V23_LCTT>
+      <BCTC_VI01_TMNB>
+        <CT559_C1>Chi tiết theo đợt vận động, theo nhà tài trợ theo tiền, hiện vật,…</CT559_C1>
+        <CT559_C4></CT559_C4>
+        <CT559_C5></CT559_C5>
+        <CT559_C3></CT559_C3>
+        <ROWS>
+        </ROWS>
+      </BCTC_VI01_TMNB>
+      <BCTC_VII01_TSCDDT>
+        <CT579_C1>Tài sản đơn vị đi thuê, mượn:</CT579_C1>
+        <CT579_C3></CT579_C3>
+        <CT579_N0>0</CT579_N0>
+        <CT579_N1>0</CT579_N1>
+        <CT580_C1>Tài sản đi thuê (chi tiết)</CT580_C1>
+        <CT580_C3></CT580_C3>
+        <CT580_N0>0</CT580_N0>
+        <CT580_N1>0</CT580_N1>
+        <CT581_C1>Tài sản, máy móc thiết bị mà nhà thầu cung cấp sau khi trúng thầu vật tư hóa chất được phép đặt tại đơn vị để khai thác sử dụng (chi tiết):</CT581_C1>
+        <CT581_C3></CT581_C3>
+        <CT581_N0>0</CT581_N0>
+        <CT581_N1>0</CT581_N1>
+        <CT582_C1>Tài sản đi mượn</CT582_C1>
+        <CT582_C3></CT582_C3>
+        <CT582_N0>0</CT582_N0>
+        <CT582_N1>0</CT582_N1>
+        <CT583_C1>Tài sản nhận giữ hộ, nhận gia công:</CT583_C1>
+        <CT583_C3></CT583_C3>
+        <CT583_N0>0</CT583_N0>
+        <CT583_N1>0</CT583_N1>
+        <CT584_C1>Tài sản đơn vị khác nhờ giữ hộ (chi tiết)</CT584_C1>
+        <CT584_C3></CT584_C3>
+        <CT584_N0>0</CT584_N0>
+        <CT584_N1>0</CT584_N1>
+        <CT585_C1>Tài sản tạm giữ chờ giải quyết (chi tiết):</CT585_C1>
+        <CT585_C3></CT585_C3>
+        <CT585_N0>0</CT585_N0>
+        <CT585_N1>0</CT585_N1>
+        <CT586_C1>Vật tư, hàng hóa nhận để gia công, chế biến:</CT586_C1>
+        <CT586_C3></CT586_C3>
+        <CT586_N0>0</CT586_N0>
+        <CT586_N1>0</CT586_N1>
+        <CT587_C1>Tài sản nhận tài trợ phải bàn giao cho đơn vị khác nhưng chưa bàn giao:</CT587_C1>
+        <CT587_C3></CT587_C3>
+        <CT587_N0>0</CT587_N0>
+        <CT587_N1>0</CT587_N1>
+        <CT588_C1>Tài sản nhận giữ hộ, nhận gia công khác:</CT588_C1>
+        <CT588_C3></CT588_C3>
+        <CT588_N0>0</CT588_N0>
+        <CT588_N1>0</CT588_N1>
+        <CT589_C1>Tổng cộng</CT589_C1>
+        <CT589_C3></CT589_C3>
+        <CT589_N0>0</CT589_N0>
+        <CT589_N1>0</CT589_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_VII01_TSCDDT>
+      <BCTC_VII02_TSCDDT_2>
+        <CT590_C1>Chi tiết công cụ, dụng cụ đang sử dụng</CT590_C1>
+        <CT590_N0>0</CT590_N0>
+        <CT590_N1>0</CT590_N1>
+        <CT592_C1>Tổng cộng</CT592_C1>
+        <CT592_N0>0</CT592_N0>
+        <CT592_N1>0</CT592_N1>
+        <ROWS>
+        </ROWS>
+      </BCTC_VII02_TSCDDT_2>
+      <BCTC_VIII03_1SKPS>
+        <CTb92_r985_C1>3.1. Tiêu chí ghi nhận TSCĐ đặc thù về nguyên giá, thời gian sử dụng,… theo văn bản số …………… của ……………………………</CTb92_r985_C1>
+      </BCTC_VIII03_1SKPS>
+      <BCTC_VIII03_2DCHT>
+        <CT593_C1>Nhóm/loại: Tài sản không xác định được chi phí hình thành và không đánh giá được giá trị thực nhưng yêu cầu phải quản lý chặt chẽ về hiện vật</CT593_C1>
+        <CT593_N0>0</CT593_N0>
+        <CT593_N1>0</CT593_N1>
+        <CT594_C1>Nhóm/loại: Các quyền thuộc phạm vi điều chỉnh của pháp luật về sở hữu trí tuệ.</CT594_C1>
+        <CT594_N0>0</CT594_N0>
+        <CT594_N1>0</CT594_N1>
+        <CT595_C1>Nhóm/loại: Thương hiệu của đơn vị sự nghiệp công lập</CT595_C1>
+        <CT595_N0>0</CT595_N0>
+        <CT595_N1>0</CT595_N1>
+        <CT596_C1>Tổng cộng</CT596_C1>
+        <CT596_N0>0</CT596_N0>
+        <CT596_N1>0</CT596_N1>
+      </BCTC_VIII03_2DCHT>
+      <BCTC_VIII01_KKTKS>
+        <CTb94_r996_C1>…</CTb94_r996_C1>
+      </BCTC_VIII01_KKTKS>
+      <BCTC_VIII02_HTSDDK>
+        <CT597_C1>Số liệu điều chỉnh hồi tố, áp dụng hồi tố vào số dư đầu kỳ trên Báo cáo tình hình tài chính năm nay:</CT597_C1>
+        <CT597_N0>0</CT597_N0>
+        <CT597_N1>0</CT597_N1>
+        <CT597_N2>0</CT597_N2>
+        <CT597_N3>0</CT597_N3>
+        <CT600_C1>Tổng cộng</CT600_C1>
+        <CT600_N0>0</CT600_N0>
+        <CT600_N1>0</CT600_N1>
+        <CT600_N2>0</CT600_N2>
+        <CT600_N3>0</CT600_N3>
+        <ROWS>
+        </ROWS>
+      </BCTC_VIII02_HTSDDK>
+      <BCTC_VIII03_BCHDNN>
+        <CT601_C1>Số liệu áp dụng hồi tố vào số liệu năm trước trên Báo cáo kết quả hoạt động năm nay:</CT601_C1>
+        <CT601_N0>0</CT601_N0>
+        <CT601_N1>0</CT601_N1>
+        <CT601_N2>0</CT601_N2>
+        <CT605_C1>Tổng cộng</CT605_C1>
+        <CT605_N0>0</CT605_N0>
+        <CT605_N1>0</CT605_N1>
+        <CT605_N2>0</CT605_N2>
+        <ROWS>
+        </ROWS>
+      </BCTC_VIII03_BCHDNN>
+      <BCTC_VIII04_TDBCTC>
+        <CTb97_r1012_C1>…</CTb97_r1012_C1>
+      </BCTC_VIII04_TDBCTC>
+      <BCTC_VIII05_TTLQ>
+        <CTb98_r1016_C1>…</CTb98_r1016_C1>
+      </BCTC_VIII05_TTLQ>
+      <BCTC_VIII06_TTKHAC>
+        <CTb99_r1020_C1>…</CTb99_r1020_C1>
+      </BCTC_VIII06_TTKHAC>
+    </TMBCTC>
+    <TMCT_TSKCHT>
+      <CT01_N0>0</CT01_N0>
+      <CT01_N1>0</CT01_N1>
+      <CT01_N2>0</CT01_N2>
+      <CT01_N3>0</CT01_N3>
+      <CT01_N4>0</CT01_N4>
+      <CT01_N5>0</CT01_N5>
+      <CT01_N6>0</CT01_N6>
+      <CT01_N7>0</CT01_N7>
+      <CT02_N0>0</CT02_N0>
+      <CT02_N1>0</CT02_N1>
+      <CT02_N2>0</CT02_N2>
+      <CT02_N3>0</CT02_N3>
+      <CT02_N4>0</CT02_N4>
+      <CT02_N5>0</CT02_N5>
+      <CT02_N6>0</CT02_N6>
+      <CT02_N7>0</CT02_N7>
+      <CT03_N0>0</CT03_N0>
+      <CT03_N1>0</CT03_N1>
+      <CT03_N2>0</CT03_N2>
+      <CT03_N3>0</CT03_N3>
+      <CT03_N4>0</CT03_N4>
+      <CT03_N5>0</CT03_N5>
+      <CT03_N6>0</CT03_N6>
+      <CT03_N7>0</CT03_N7>
+      <CT03d_N0>0</CT03d_N0>
+      <CT03d_N1>0</CT03d_N1>
+      <CT03d_N2>0</CT03d_N2>
+      <CT03d_N3>0</CT03d_N3>
+      <CT03d_N4>0</CT03d_N4>
+      <CT03d_N5>0</CT03d_N5>
+      <CT03d_N6>0</CT03d_N6>
+      <CT03d_N7>0</CT03d_N7>
+      <CT03c_N0>0</CT03c_N0>
+      <CT03c_N1>0</CT03c_N1>
+      <CT03c_N2>0</CT03c_N2>
+      <CT03c_N3>0</CT03c_N3>
+      <CT03c_N4>0</CT03c_N4>
+      <CT03c_N5>0</CT03c_N5>
+      <CT03c_N6>0</CT03c_N6>
+      <CT03c_N7>0</CT03c_N7>
+      <CT03b_N0>0</CT03b_N0>
+      <CT03b_N1>0</CT03b_N1>
+      <CT03b_N2>0</CT03b_N2>
+      <CT03b_N3>0</CT03b_N3>
+      <CT03b_N4>0</CT03b_N4>
+      <CT03b_N5>0</CT03b_N5>
+      <CT03b_N6>0</CT03b_N6>
+      <CT03b_N7>0</CT03b_N7>
+      <CT03a_N0>0</CT03a_N0>
+      <CT03a_N1>0</CT03a_N1>
+      <CT03a_N2>0</CT03a_N2>
+      <CT03a_N3>0</CT03a_N3>
+      <CT03a_N4>0</CT03a_N4>
+      <CT03a_N5>0</CT03a_N5>
+      <CT03a_N6>0</CT03a_N6>
+      <CT03a_N7>0</CT03a_N7>
+      <CT04_N0>0</CT04_N0>
+      <CT04_N1>0</CT04_N1>
+      <CT04_N2>0</CT04_N2>
+      <CT04_N3>0</CT04_N3>
+      <CT04_N4>0</CT04_N4>
+      <CT04_N5>0</CT04_N5>
+      <CT04_N6>0</CT04_N6>
+      <CT04_N7>0</CT04_N7>
+      <CT04c_N0>0</CT04c_N0>
+      <CT04c_N1>0</CT04c_N1>
+      <CT04c_N2>0</CT04c_N2>
+      <CT04c_N3>0</CT04c_N3>
+      <CT04c_N4>0</CT04c_N4>
+      <CT04c_N5>0</CT04c_N5>
+      <CT04c_N6>0</CT04c_N6>
+      <CT04c_N7>0</CT04c_N7>
+      <CT04b_N0>0</CT04b_N0>
+      <CT04b_N1>0</CT04b_N1>
+      <CT04b_N2>0</CT04b_N2>
+      <CT04b_N3>0</CT04b_N3>
+      <CT04b_N4>0</CT04b_N4>
+      <CT04b_N5>0</CT04b_N5>
+      <CT04b_N6>0</CT04b_N6>
+      <CT04b_N7>0</CT04b_N7>
+      <CT04a_N0>0</CT04a_N0>
+      <CT04a_N1>0</CT04a_N1>
+      <CT04a_N2>0</CT04a_N2>
+      <CT04a_N3>0</CT04a_N3>
+      <CT04a_N4>0</CT04a_N4>
+      <CT04a_N5>0</CT04a_N5>
+      <CT04a_N6>0</CT04a_N6>
+      <CT04a_N7>0</CT04a_N7>
+      <CT05_N0>0</CT05_N0>
+      <CT05_N1>0</CT05_N1>
+      <CT05_N2>0</CT05_N2>
+      <CT05_N3>0</CT05_N3>
+      <CT05_N4>0</CT05_N4>
+      <CT05_N5>0</CT05_N5>
+      <CT05_N6>0</CT05_N6>
+      <CT05_N7>0</CT05_N7>
+      <CT06_N0>0</CT06_N0>
+      <CT06_N1>0</CT06_N1>
+      <CT06_N2>0</CT06_N2>
+      <CT06_N3>0</CT06_N3>
+      <CT06_N4>0</CT06_N4>
+      <CT06_N5>0</CT06_N5>
+      <CT06_N6>0</CT06_N6>
+      <CT06_N7>0</CT06_N7>
+      <CT07_N0>0</CT07_N0>
+      <CT07_N1>0</CT07_N1>
+      <CT07_N2>0</CT07_N2>
+      <CT07_N3>0</CT07_N3>
+      <CT07_N4>0</CT07_N4>
+      <CT07_N5>0</CT07_N5>
+      <CT07_N6>0</CT07_N6>
+      <CT07_N7>0</CT07_N7>
+      <CT08_N0>0</CT08_N0>
+      <CT08_N1>0</CT08_N1>
+      <CT08_N2>0</CT08_N2>
+      <CT08_N3>0</CT08_N3>
+      <CT08_N4>0</CT08_N4>
+      <CT08_N5>0</CT08_N5>
+      <CT08_N6>0</CT08_N6>
+      <CT08_N7>0</CT08_N7>
+      <CT08a_N0>0</CT08a_N0>
+      <CT08a_N1>0</CT08a_N1>
+      <CT08a_N2>0</CT08a_N2>
+      <CT08a_N3>0</CT08a_N3>
+      <CT08a_N4>0</CT08a_N4>
+      <CT08a_N5>0</CT08a_N5>
+      <CT08a_N6>0</CT08a_N6>
+      <CT08a_N7>0</CT08a_N7>
+      <CT08b_N0>0</CT08b_N0>
+      <CT08b_N1>0</CT08b_N1>
+      <CT08b_N2>0</CT08b_N2>
+      <CT08b_N3>0</CT08b_N3>
+      <CT08b_N4>0</CT08b_N4>
+      <CT08b_N5>0</CT08b_N5>
+      <CT08b_N6>0</CT08b_N6>
+      <CT08b_N7>0</CT08b_N7>
+      <CT08c_N0>0</CT08c_N0>
+      <CT08c_N1>0</CT08c_N1>
+      <CT08c_N2>0</CT08c_N2>
+      <CT08c_N3>0</CT08c_N3>
+      <CT08c_N4>0</CT08c_N4>
+      <CT08c_N5>0</CT08c_N5>
+      <CT08c_N6>0</CT08c_N6>
+      <CT08c_N7>0</CT08c_N7>
+      <CT09_N0>0</CT09_N0>
+      <CT09_N1>0</CT09_N1>
+      <CT09_N2>0</CT09_N2>
+      <CT09_N3>0</CT09_N3>
+      <CT09_N4>0</CT09_N4>
+      <CT09_N5>0</CT09_N5>
+      <CT09_N6>0</CT09_N6>
+      <CT09_N7>0</CT09_N7>
+      <CT09a_N0>0</CT09a_N0>
+      <CT09a_N1>0</CT09a_N1>
+      <CT09a_N2>0</CT09a_N2>
+      <CT09a_N3>0</CT09a_N3>
+      <CT09a_N4>0</CT09a_N4>
+      <CT09a_N5>0</CT09a_N5>
+      <CT09a_N6>0</CT09a_N6>
+      <CT09a_N7>0</CT09a_N7>
+      <CT09b_N0>0</CT09b_N0>
+      <CT09b_N1>0</CT09b_N1>
+      <CT09b_N2>0</CT09b_N2>
+      <CT09b_N3>0</CT09b_N3>
+      <CT09b_N4>0</CT09b_N4>
+      <CT09b_N5>0</CT09b_N5>
+      <CT09b_N6>0</CT09b_N6>
+      <CT09b_N7>0</CT09b_N7>
+      <CT09c_N0>0</CT09c_N0>
+      <CT09c_N1>0</CT09c_N1>
+      <CT09c_N2>0</CT09c_N2>
+      <CT09c_N3>0</CT09c_N3>
+      <CT09c_N4>0</CT09c_N4>
+      <CT09c_N5>0</CT09c_N5>
+      <CT09c_N6>0</CT09c_N6>
+      <CT09c_N7>0</CT09c_N7>
+      <CT10_N0>0</CT10_N0>
+      <CT10_N1>0</CT10_N1>
+      <CT10_N2>0</CT10_N2>
+      <CT10_N3>0</CT10_N3>
+      <CT10_N4>0</CT10_N4>
+      <CT10_N5>0</CT10_N5>
+      <CT10_N6>0</CT10_N6>
+      <CT10_N7>0</CT10_N7>
+      <CT12_N0>0</CT12_N0>
+      <CT12_N1>0</CT12_N1>
+      <CT12_N2>0</CT12_N2>
+      <CT12_N3>0</CT12_N3>
+      <CT12_N4>0</CT12_N4>
+      <CT12_N5>0</CT12_N5>
+      <CT12_N6>0</CT12_N6>
+      <CT12_N7>0</CT12_N7>
+      <CT13_N0>0</CT13_N0>
+      <CT13_N1>0</CT13_N1>
+      <CT13_N2>0</CT13_N2>
+      <CT13_N3>0</CT13_N3>
+      <CT13_N4>0</CT13_N4>
+      <CT13_N5>0</CT13_N5>
+      <CT13_N6>0</CT13_N6>
+      <CT13_N7>0</CT13_N7>
+      <CTb1_r28_N0>0</CTb1_r28_N0>
+      <CTb1_r28_N1>0</CTb1_r28_N1>
+      <CTb1_r28_N2>0</CTb1_r28_N2>
+      <CTb1_r28_N3>0</CTb1_r28_N3>
+      <CTb1_r28_N4>0</CTb1_r28_N4>
+      <CTb1_r28_N5>0</CTb1_r28_N5>
+      <CTb1_r28_N6>0</CTb1_r28_N6>
+      <CTb1_r28_N7>0</CTb1_r28_N7>
+    </TMCT_TSKCHT>
+    <BCTDTST>
+      <BCTDTST_I>
+        <CT01_C1>Số dư đầu năm</CT01_C1>
+        <CT01_N0>0</CT01_N0>
+        <CT01_N1>0</CT01_N1>
+        <CT01_N2>0</CT01_N2>
+        <CT01_N3>0</CT01_N3>
+        <CT01_N4>0</CT01_N4>
+        <CT01_N5>0</CT01_N5>
+        <CT01_N6>0</CT01_N6>
+        <CT02_C1>Tăng trong năm</CT02_C1>
+        <CT02_N0>0</CT02_N0>
+        <CT02_N1>0</CT02_N1>
+        <CT02_N2>6424000</CT02_N2>
+        <CT02_N3>0</CT02_N3>
+        <CT02_N4>0</CT02_N4>
+        <CT02_N5>0</CT02_N5>
+        <CT02_N6>0</CT02_N6>
+        <CT04_C1>Giảm trong năm</CT04_C1>
+        <CT04_N0>0</CT04_N0>
+        <CT04_N1>0</CT04_N1>
+        <CT04_N2>0</CT04_N2>
+        <CT04_N3>0</CT04_N3>
+        <CT04_N4>0</CT04_N4>
+        <CT04_N5>0</CT04_N5>
+        <CT04_N6>0</CT04_N6>
+        <CT06_C1>Số dư cuối năm</CT06_C1>
+        <CT06_N0>0</CT06_N0>
+        <CT06_N1>0</CT06_N1>
+        <CT06_N2>6424000</CT06_N2>
+        <CT06_N3>0</CT06_N3>
+        <CT06_N4>0</CT06_N4>
+        <CT06_N5>0</CT06_N5>
+        <CT06_N6>0</CT06_N6>
+        <ROWS>
+          <CT02_001_C1></CT02_001_C1>
+          <CT02_001_N0>0</CT02_001_N0>
+          <CT02_001_N1>0</CT02_001_N1>
+          <CT02_001_N2>6424000</CT02_001_N2>
+          <CT02_001_N3>0</CT02_001_N3>
+          <CT02_001_N4>0</CT02_001_N4>
+          <CT02_001_N5>0</CT02_001_N5>
+          <CT02_001_N6>0</CT02_001_N6>
+        </ROWS>
+      </BCTDTST_I>
+    </BCTDTST>
+  </TTBaoCao>
+</BCCCTT>
