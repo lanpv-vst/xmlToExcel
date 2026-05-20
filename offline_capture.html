@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chụp ảnh hiện trường (Offline)</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #22c55e;
+      --danger: #ef4444;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      padding: 16px;
+    }
+    h1 { margin: 0 0 12px; font-size: 1.35rem; }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 14px;
+      max-width: 960px;
+      margin: 0 auto;
+    }
+    .card {
+      background: var(--panel);
+      border-radius: 12px;
+      padding: 12px;
+      box-shadow: 0 6px 24px rgba(0,0,0,.25);
+    }
+    .fields {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 10px;
+    }
+    label {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      font-size: .9rem;
+      color: var(--muted);
+    }
+    input {
+      width: 100%;
+      border: 1px solid #374151;
+      background: #0b1220;
+      color: var(--text);
+      border-radius: 8px;
+      padding: 8px 10px;
+      outline: none;
+    }
+    input:focus { border-color: var(--accent); }
+    .video-wrap {
+      position: relative;
+      border-radius: 12px;
+      overflow: hidden;
+      background: #000;
+    }
+    video, canvas.preview {
+      width: 100%;
+      display: block;
+      max-height: 65vh;
+      object-fit: cover;
+    }
+    .overlay {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(transparent, rgba(0,0,0,.72));
+      padding: 10px;
+      font-size: .82rem;
+      line-height: 1.4;
+      white-space: pre-line;
+      text-shadow: 0 1px 2px rgba(0,0,0,.7);
+    }
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    button {
+      border: 0;
+      padding: 10px 14px;
+      border-radius: 8px;
+      color: #fff;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .btn-primary { background: var(--accent); color: #082f14; }
+    .btn-secondary { background: #2563eb; }
+    .btn-danger { background: var(--danger); }
+    .muted { color: var(--muted); font-size: .86rem; }
+    .status { font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <div class="grid">
+    <div class="card">
+      <h1>Chụp ảnh hiện trường (dùng offline)</h1>
+      <p class="muted">Nhập thông tin, bật camera, sau đó bấm “Chụp & tải ảnh”. Ảnh xuất ra đã đóng dấu đầy đủ thông tin ngay trên ảnh.</p>
+      <div class="fields">
+        <label>Tên vị trí chụp
+          <input id="locationName" placeholder="Ví dụ: Cổng chính khu A" />
+        </label>
+        <label>Tên trạm
+          <input id="stationName" placeholder="Ví dụ: Trạm 110kV ABC" />
+        </label>
+        <label>Tên ảnh
+          <input id="photoName" placeholder="Ví dụ: MATTRUOC_TBA" />
+        </label>
+        <label>Mã ảnh
+          <input id="photoCode" placeholder="Ví dụ: IMG-0001" />
+        </label>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="video-wrap">
+        <video id="video" autoplay playsinline muted></video>
+        <div class="overlay" id="liveOverlay">Đang khởi tạo camera...</div>
+      </div>
+      <p class="status" id="status"></p>
+      <div class="actions">
+        <button class="btn-secondary" id="startBtn">Bật camera</button>
+        <button class="btn-primary" id="captureBtn">Chụp & tải ảnh</button>
+        <button class="btn-danger" id="stopBtn">Tắt camera</button>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="muted">Ảnh xem trước sau khi chụp:</p>
+      <canvas id="previewCanvas" class="preview"></canvas>
+    </div>
+  </div>
+
+  <script>
+    const video = document.getElementById('video');
+    const overlay = document.getElementById('liveOverlay');
+    const statusEl = document.getElementById('status');
+    const previewCanvas = document.getElementById('previewCanvas');
+
+    const fields = {
+      locationName: document.getElementById('locationName'),
+      stationName: document.getElementById('stationName'),
+      photoName: document.getElementById('photoName'),
+      photoCode: document.getElementById('photoCode')
+    };
+
+    let stream = null;
+    let latestPos = null;
+    let headingDeg = null;
+
+    function pad2(n) { return String(n).padStart(2, '0'); }
+
+    function formatDateTime(d = new Date()) {
+      return `${pad2(d.getDate())}/${pad2(d.getMonth() + 1)}/${d.getFullYear()} ${pad2(d.getHours())}:${pad2(d.getMinutes())}:${pad2(d.getSeconds())}`;
+    }
+
+    function getMeta() {
+      const now = new Date();
+      const lat = latestPos?.coords?.latitude;
+      const lng = latestPos?.coords?.longitude;
+      const acc = latestPos?.coords?.accuracy;
+      return {
+        timestamp: formatDateTime(now),
+        latitude: Number.isFinite(lat) ? lat.toFixed(6) : 'N/A',
+        longitude: Number.isFinite(lng) ? lng.toFixed(6) : 'N/A',
+        accuracy: Number.isFinite(acc) ? `${acc.toFixed(1)} m` : 'N/A',
+        angle: Number.isFinite(headingDeg) ? `${headingDeg.toFixed(1)}°` : 'N/A',
+        locationName: fields.locationName.value.trim() || 'N/A',
+        stationName: fields.stationName.value.trim() || 'N/A',
+        photoName: fields.photoName.value.trim() || 'N/A',
+        photoCode: fields.photoCode.value.trim() || 'N/A'
+      };
+    }
+
+    function overlayText(meta) {
+      return [
+        `Ngày giờ chụp: ${meta.timestamp}`,
+        `Tọa độ: ${meta.latitude}, ${meta.longitude} (±${meta.accuracy})`,
+        `Góc độ: ${meta.angle}`,
+        `Tên vị trí chụp: ${meta.locationName}`,
+        `Tên trạm: ${meta.stationName}`,
+        `Tên ảnh: ${meta.photoName}`,
+        `Mã ảnh: ${meta.photoCode}`
+      ].join('\n');
+    }
+
+    function updateLiveOverlay() {
+      overlay.textContent = overlayText(getMeta());
+    }
+
+    async function startCamera() {
+      try {
+        stream = await navigator.mediaDevices.getUserMedia({
+          video: { facingMode: { ideal: 'environment' } },
+          audio: false
+        });
+        video.srcObject = stream;
+        statusEl.textContent = 'Camera đã bật.';
+      } catch (err) {
+        statusEl.textContent = `Không bật được camera: ${err.message}`;
+      }
+    }
+
+    function stopCamera() {
+      if (stream) {
+        stream.getTracks().forEach(t => t.stop());
+      }
+      stream = null;
+      video.srcObject = null;
+      statusEl.textContent = 'Đã tắt camera.';
+    }
+
+    function startGeoWatch() {
+      if (!navigator.geolocation) {
+        statusEl.textContent = 'Trình duyệt không hỗ trợ GPS.';
+        return;
+      }
+      navigator.geolocation.watchPosition(
+        pos => { latestPos = pos; },
+        err => { statusEl.textContent = `GPS lỗi: ${err.message}`; },
+        { enableHighAccuracy: true, maximumAge: 5000, timeout: 15000 }
+      );
+    }
+
+    function startCompass() {
+      const onOrient = ev => {
+        const alpha = ev.webkitCompassHeading ?? ev.alpha;
+        if (Number.isFinite(alpha)) {
+          headingDeg = alpha;
+        }
+      };
+
+      if (typeof DeviceOrientationEvent !== 'undefined' && typeof DeviceOrientationEvent.requestPermission === 'function') {
+        statusEl.textContent = 'Nhấn màn hình 1 lần để cấp quyền cảm biến góc.';
+        const ask = async () => {
+          try {
+            const permission = await DeviceOrientationEvent.requestPermission();
+            if (permission === 'granted') {
+              window.addEventListener('deviceorientation', onOrient, true);
+              statusEl.textContent = 'Đã bật cảm biến góc.';
+            }
+          } catch (_) {
+            statusEl.textContent = 'Không cấp được quyền cảm biến góc.';
+          }
+          window.removeEventListener('click', ask);
+        };
+        window.addEventListener('click', ask, { once: true });
+      } else {
+        window.addEventListener('deviceorientationabsolute', onOrient, true);
+        window.addEventListener('deviceorientation', onOrient, true);
+      }
+    }
+
+    function drawOverlayToCanvas(ctx, w, h, text) {
+      const pad = Math.max(12, Math.round(w * 0.015));
+      const fontSize = Math.max(15, Math.round(w * 0.02));
+      const lineH = Math.round(fontSize * 1.45);
+      const lines = text.split('\n');
+      const boxH = pad * 2 + lineH * lines.length;
+
+      ctx.fillStyle = 'rgba(0,0,0,0.62)';
+      ctx.fillRect(0, h - boxH, w, boxH);
+
+      ctx.font = `600 ${fontSize}px Arial`;
+      ctx.fillStyle = '#fff';
+      ctx.textBaseline = 'top';
+
+      lines.forEach((line, i) => {
+        ctx.fillText(line, pad, h - boxH + pad + i * lineH);
+      });
+    }
+
+    function captureAndDownload() {
+      if (!video.videoWidth || !video.videoHeight) {
+        statusEl.textContent = 'Camera chưa sẵn sàng để chụp.';
+        return;
+      }
+      const meta = getMeta();
+      const text = overlayText(meta);
+
+      const canvas = previewCanvas;
+      canvas.width = video.videoWidth;
+      canvas.height = video.videoHeight;
+      const ctx = canvas.getContext('2d');
+
+      ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+      drawOverlayToCanvas(ctx, canvas.width, canvas.height, text);
+
+      const safeName = (meta.photoName !== 'N/A' ? meta.photoName : 'anh_hien_truong').replace(/[^a-zA-Z0-9_-]/g, '_');
+      const safeCode = (meta.photoCode !== 'N/A' ? meta.photoCode : 'code').replace(/[^a-zA-Z0-9_-]/g, '_');
+      const stamp = new Date().toISOString().replace(/[:.]/g, '-');
+      const fileName = `${safeName}_${safeCode}_${stamp}.jpg`;
+
+      canvas.toBlob(blob => {
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = fileName;
+        a.click();
+        URL.revokeObjectURL(a.href);
+      }, 'image/jpeg', 0.95);
+
+      statusEl.textContent = `Đã chụp và tải ảnh: ${fileName}`;
+    }
+
+    document.getElementById('startBtn').addEventListener('click', startCamera);
+    document.getElementById('stopBtn').addEventListener('click', stopCamera);
+    document.getElementById('captureBtn').addEventListener('click', captureAndDownload);
+
+    Object.values(fields).forEach(el => el.addEventListener('input', updateLiveOverlay));
+    setInterval(updateLiveOverlay, 500);
+
+    startGeoWatch();
+    startCompass();
+    updateLiveOverlay();
+  </script>
+</body>
+</html>
